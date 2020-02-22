@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Hong"
+title                    : "Kevin Hong's Website"
 title_separator          : "-"
 name                     : &name "Dr. Kevin Hong"
 description              : &description "Associate Professor at Arizona State University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Kevin Hong"
   avatar           : "profile.jpeg"
-  bio              : "Associate Professor, PhD Program Director, Co-Director of the Digital Society Initiative"
+  bio              : "Associate Professor, <br /> PhD Program Director, <br /> Co-Director of the Digital Society Initiative"
   location         : "Tempe, Arizona"
   employer         : "W. P. Carey School of Business, <br /> Arizona State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
