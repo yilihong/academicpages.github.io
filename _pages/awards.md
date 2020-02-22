@@ -5,80 +5,62 @@ permalink: /awards/
 author_profile: true
 ---
 
-<h2 class="blogyear">2019</h2>
-<ul id="archive">
-    <li>Associate Editor of the Year, <i>Information Systems Research</i></li>
-    <li>INFORMS Information Systems Society Sandy Slaughter Early Career Award</li>
-    <li>Best Paper Nomination, Conference on Information Systems and Technology</li>
-    <li>Finalist, Huizing Undergraduate Teaching Award</li>
-</ul>
+# 2019
+- Associate Editor of the Year, <i>Information Systems Research</i>
+- INFORMS Information Systems Society Sandy Slaughter Early Career Award
+- Best Paper Nomination, Conference on Information Systems and Technology
+- Finalist, Huizing Undergraduate Teaching Award
 
-<h2 class="blogyear">2018</h2>
-<ul id="archive">
-    <li>Best Paper Award, Workshop on Information Systems and Economics (WISE)</li>
-    <li>Best Conference Theme Paper Award (runner-up), International Conference on Information Systems (ICIS)</li>
-    <li>Early Career Award, Association for Information Systems</li>
-    <li><a href="http://netinst.org/">NET Institute Grant</a></li>
-    <li>National Science Foundation (SES-DRMS) Grant</li>
-    <li>Best Paper Award, The 12th China Summer Workshop on Information Management (CSWIM)</li>
-    <li>Best Paper Nomination, Pacific Asia Conference on Information Systems (PACIS)</li>
-</ul>
+# 2018
+- Best Paper Award, Workshop on Information Systems and Economics (WISE)
+- Best Conference Theme Paper Award (runner-up), International Conference on Information Systems (ICIS)
+- Early Career Award, Association for Information Systems
+- <a href="http://netinst.org/">NET Institute Grant</a>
+- National Science Foundation (SES-DRMS) Grant
+- Best Paper Award, The 12th China Summer Workshop on Information Management (CSWIM)
+- Best Paper Nomination, Pacific Asia Conference on Information Systems (PACIS)
 
-<h2 class="blogyear">2017</h2>
-<ul id="archive">
-    <li><a href="http://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2017.2909">Management Science Meritorious Service Award</a></li>
-    <li><a href="http://netinst.org/">NET Institute Grant</a></li>
-    <li>"Future of Work" Pioneering Ideas Grant ($120,024), Robert Wood Johnson Foundation</li>
-    <li>W. P. Carey School Faculty Research Award</li>
-    <li>Best Paper Award, Hawaii International Conference on System Sciences (HICSS), 2017</li>
-</ul>
+# 2017
+- <a href="http://pubsonline.informs.org/doi/pdf/10.1287/mnsc.2017.2909">Management Science Meritorious Service Award</a>
+- <a href="http://netinst.org/">NET Institute Grant</a>
+- "Future of Work" Pioneering Ideas Grant ($120,024), Robert Wood Johnson Foundation
+- W. P. Carey School Faculty Research Award
+- Best Paper Award, Hawaii International Conference on System Sciences (HICSS), 2017
 
-<h2 class="blogyear">2016</h2>
-<ul id="archive">
-    <li>Google Cloud Platform Education Grant</li>
-    <li><a href="http://netinst.org/">NET Institute Grant</a></li>
-    <li>Outstanding Teaching Award, Department of Information Systems, Arizona State University</li>
-    <li>Amazon AWS Research Grant</li>
-</ul>
+# 2016
+- Google Cloud Platform Education Grant
+- <a href="http://netinst.org/">NET Institute Grant</a>
+- Outstanding Teaching Award, Department of Information Systems, Arizona State University
+- Amazon AWS Research Grant
 
-<h2 class="blogyear">2015</h2>
-<ul id="archive">
-    <li><a href="http://www.fox.temple.edu/cms_research/institutes-and-centers/ciber/">CIBER Grant Award</a></li>
-    <li><a href="http://netinst.org/">NET Institute Grant</a></li>
-</ul>
+# 2015
+- <a href="http://www.fox.temple.edu/cms_research/institutes-and-centers/ciber/">CIBER Grant Award</a>
+- <a href="http://netinst.org/">NET Institute Grant</a>
 
-<h2 class="blogyear">2014</h2>
-<ul id="archive">
-    <li><a href="http://icis2014.aisnet.org/doctoral-consortium/dissertation-competition.html">ACM SIGMIS Doctoral Dissertation Award</a>, Association for Information Systems and Association for Computing Machinery</li>
-    <li><a href="https://www.informs.org/Community/ISS/Awards/INFORMS-ISS-Nunamaker-Chen-Dissertation-Award">INFORMS ISS Nunamaker-Chen Dissertation Award runner-up</a>, INFORMS</li>
-    <li><a href="http://www.fox.temple.edu/cms_academics/phd/fox-research-competition/">Best Dissertation Award</a>, Temple University</li>
-    <li><a href="http://icis2014.aisnet.org/">Best Paper Nomination</a>, International Conference on Information Systems (ICIS)</li>
-    <li><a href="http://netinst.org/">NET Institute Grant</a></li>
-    <li><a href="http://www.fox.temple.edu/cms_academics/phd/fox-research-competition/">Dean’s Outstanding Publication Award</a></li>
-    <li><a href="https://www.betagammasigma.org/">Beta Gamma Sigma International Honor Society</a></li>
-</ul>
+# 2014
+- <a href="http://icis2014.aisnet.org/doctoral-consortium/dissertation-competition.html">ACM SIGMIS Doctoral Dissertation Award</a>, Association for Information Systems and Association for Computing Machinery
+- <a href="https://www.informs.org/Community/ISS/Awards/INFORMS-ISS-Nunamaker-Chen-Dissertation-Award">INFORMS ISS Nunamaker-Chen Dissertation Award runner-up</a>, INFORMS
+- <a href="http://www.fox.temple.edu/cms_academics/phd/fox-research-competition/">Best Dissertation Award</a>, Temple University
+- <a href="http://icis2014.aisnet.org/">Best Paper Nomination</a>, International Conference on Information Systems (ICIS)
+- <a href="http://netinst.org/">NET Institute Grant</a>
+- <a href="http://www.fox.temple.edu/cms_academics/phd/fox-research-competition/">Dean’s Outstanding Publication Award</a>
+- <a href="https://www.betagammasigma.org/">Beta Gamma Sigma International Honor Society</a>
 
-<h2 class="blogyear">2013</h2>
-<ul id="archive">
-    <li><a href="http://icis2014.aisnet.org/doctoral-consortium/call-for-nominations.html">ICIS Doctoral Consortium Fellow</a></li>
-    <li>Distinguished Award for Excellence in Teaching, Temple University</li>
-    <li><a href="http://netinst.org/">NET Institute Grant</a></li>
-    <li><a href="http://www.fox.temple.edu/cms_research/institutes-and-centers/ciber/">CIBER Grant Award</a></li>
-    <li><a href="http://www.fox.temple.edu/cms_academics/phd/fox-research-competition/">Best Dissertation Proposal Award</a>, Temple University</li>
-    <li>Lynne A. Cronfield Foundation Research Award</li>
-</ul>
+# 2013
+- <a href="http://icis2014.aisnet.org/doctoral-consortium/call-for-nominations.html">ICIS Doctoral Consortium Fellow</a>
+- Distinguished Award for Excellence in Teaching, Temple University
+- <a href="http://netinst.org/">NET Institute Grant</a>
+- <a href="http://www.fox.temple.edu/cms_research/institutes-and-centers/ciber/">CIBER Grant Award</a>
+- <a href="http://www.fox.temple.edu/cms_academics/phd/fox-research-competition/">Best Dissertation Proposal Award</a>, Temple University
+- Lynne A. Cronfield Foundation Research Award
 
-<h2 class="blogyear">2012</h2>
-<ul id="archive">
-    <li>Best Conference Paper Award Runner-up, International Conference on Information Systems (ICIS)</li>
-    <li>Best Conference Paper Award Runner-up, America's Conference on Information Systems (AMCIS)</li>
-</ul>
+# 2012
+- Best Conference Paper Award Runner-up, International Conference on Information Systems (ICIS)
+- Best Conference Paper Award Runner-up, America's Conference on Information Systems (AMCIS)
 
-<h2 class="blogyear">2009-2011</h2>
-<ul id="archive">
-    <li><a href="http://www.fox.temple.edu/cms_research/institutes-and-centers/ciber/">CIBER Grant Award</a></li>
-    <li>Outstanding Graduate, Beijing Foreign Studies University</li>
-    <li>Outstanding Language Specialist, International Olympics Committee</li>
-</ul>
+# 2009-2011
+- <a href="http://www.fox.temple.edu/cms_research/institutes-and-centers/ciber/">CIBER Grant Award</a>
+- Outstanding Graduate, Beijing Foreign Studies University
+- Outstanding Language Specialist, International Olympics Committee
 
 <!-- {{ post.date | date: '%m %d, %Y' }} -->
