@@ -19,7 +19,7 @@ author_profile: true
  
 <hr style="clear:both;visibility: hidden;" />  
 
-## Forthcoming Articles 
+## Selected Journal Publications
 
 Huang N, Burtch G, Hong Y, Pavlou PA. 2019. Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market, *Information Systems Reserach, forthcoming.* 
 
@@ -36,8 +36,6 @@ Gong J, Hong Y, Zentner A. 2018. [Role of Monetary Incentives in the Digital and
 Kanat I, Hong Y, Raghu TS. 2018. [Surviving in Global Online Labor Markets for IT Services: A Geo-economic Analysis](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Information Systems Research.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Survival_in_OLM_2018.pdf)
 
 Chen PY, Hong Y, Liu Y. 2018. [Value of Multi-dimensional Rating Systems: Evidence from a Natural Experiment and Lab Experiments](http://pubsonline.informs.org/doi/abs/10.1287/mnsc.2017.2852), *Management Science.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_MD_Systems_2018.pdf)
-
-## Published Premier Journal Articles 
 
 Burtch G, Hong Y, Bapna R, Griskevicius V. 2018. [Stimulating Online Reviews by Combining Financial Incentives and Social Norms](http://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2715), *Management Science.* 64(5):2065--2082. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Social_Norms_2018.pdf)
 
