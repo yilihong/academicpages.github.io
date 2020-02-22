@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Dr. Kevin Hong"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
