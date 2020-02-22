@@ -7,6 +7,9 @@ author_profile: true
 
 ## Editorships
 
+- Senior Editor, <i>Production and Operations Management</i> (2019–)
+- Associate Editor, <i>Information Systems Research</i> (2018–)
+
 <ul id="archive">
     <li>Senior Editor, <i>Production and Operations Management</i> (2019–)</li>
     <li>Associate Editor, <i>Information Systems Research</i> (2018–)</li>
@@ -21,11 +24,11 @@ author_profile: true
 
 ## Selected Journal Publications
 
-Huang N, Burtch G, Hong Y, Pavlou PA. 2019. Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market, *Information Systems Reserach, forthcoming.* 
+1. Huang N, Burtch G, Hong Y, Pavlou PA. 2019. Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market, *Information Systems Reserach, forthcoming.* 
 
-Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Brand_Personality_2019.pdf)
+1. Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Brand_Personality_2019.pdf)
 
-Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2019. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Performance_Feedback_2019.pdf)
+1. Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2019. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Management Science.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Performance_Feedback_2019.pdf)
 
 Yan Z, Kuang L, Huang N, Hong Y. 2019. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3154655), *Journal of Management Information Systems.* [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Spillover_Effect_UGC_2019.pdf)
 
