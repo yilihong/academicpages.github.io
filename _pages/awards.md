@@ -5,13 +5,16 @@ permalink: /awards/
 author_profile: true
 ---
 
-# 2019
+## 2020
+- Nominated for Outstanding Doctoral Mentor, Arizona State University
+
+## 2019
 - Associate Editor of the Year, <i>Information Systems Research</i>
 - INFORMS Information Systems Society Sandy Slaughter Early Career Award
 - Best Paper Nomination, Conference on Information Systems and Technology
 - Finalist, Huizing Undergraduate Teaching Award
 
-# 2018
+### 2018
 - Best Paper Award, Workshop on Information Systems and Economics (WISE)
 - Best Conference Theme Paper Award (runner-up), International Conference on Information Systems (ICIS)
 - Early Career Award, Association for Information Systems
