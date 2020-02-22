@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include image.html url="/images/wpc_mag1.png" caption="W. P. Carey Magazine interview on the <i>Management Science</i> paper on performance feedback in digital platforms. (Photo credits: W. P. Carey Magazine)" width=300 align="right" %}
-
 ## Editorships
 
 <ul id="archive">
