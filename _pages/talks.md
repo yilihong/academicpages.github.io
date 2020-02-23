@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Invited Talks and Seminars"
 permalink: /talks/
 author_profile: true

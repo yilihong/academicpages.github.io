@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Professional Awards and Grants"
 permalink: /awards/
 author_profile: true
