@@ -19,7 +19,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Huang N, Burtch G, Hong Y, Pavlou PA. 2019. Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market, *Information Systems Reserach, forthcoming.* 
+1. Huang N, Burtch G, Hong Y, Pavlou PA. 2019. [Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3105090), *Information Systems Research, forthcoming.* 
 
 1. Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3197420), *Journal of Management Information Systems.* 36(3):893–930 [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Brand_Personality_2019.pdf)
 
