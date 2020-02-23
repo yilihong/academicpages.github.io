@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Hong's Website"
+title                    : "Yili (Kevin) Hong, Ph.D."
 title_separator          : "-"
 name                     : &name "Dr. Kevin Hong"
-description              : &description "Associate Professor at Arizona State University"
+description              : &description "Yili (Kevin) Hong, Ph.D."
 url                      : http://kevinhong.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yilihong/yilihong.github.io"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Kevin Hong"
+  name             : "Dr. Yili (Kevin) Hong"
   avatar           : "profile.jpeg"
   bio              : "Associate Professor, <br /> PhD Program Director, <br /> Co-Director of the Digital Society Initiative"
   location         :
