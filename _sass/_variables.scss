@@ -6,14 +6,14 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 18;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 /* system typefaces */
-$serif                      :  "Cormorant Garamond", "Cormorant","Crimson Text", "Playfair Display", Georgia, Times, serif;
+$serif                      : "Crimson Text", "Cormorant Garamond", "Cormorant", "Playfair Display", Georgia, Times, serif;
 $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
