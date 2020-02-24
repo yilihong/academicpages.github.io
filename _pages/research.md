@@ -4,15 +4,25 @@ permalink: /research/
 author_profile: true
 ---
 
-## Editorships
+## Research Areas
 
-- Senior Editor, *Production and Operations Management* (2019–)
-- Associate Editor, *Information Systems Research* (2018–)
-- Associate Editor, *Journal of the Association for Information Systems* (2019–)
-- Associate Editor, *Information Systems Research*, Special Issue on “Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations and Society”
-- Associate Editor, *Information Systems Research*, Special Issue on “Market Design and Analytics”
-- Editorial Board, *Journal of the Association for Information Systems* (2017–2019)
-- Editorial Board, *Journal of the Association for Information Systems*, Special Issue on “Addressing Societal Challenges through Analytics”
+### Design and Evaluation of IT-based Markets and Business Models
+- Digital Platforms
+- Online Auctions
+- FinTech
+- Open Innovation
+
+### Societal Impact and Business Value of Information Technology
+- Future of Work
+- Sharing Economy
+- Gig Economy
+- IT Labor
+
+### Human-AI Interaction and Business Analytics
+- Human-AI Interaction
+- Bot Regulation
+- Social Media Analytics
+- Recommender Systems
  
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
