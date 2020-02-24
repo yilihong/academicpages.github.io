@@ -16,7 +16,7 @@ author_profile: true
  
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
-## PhD Students Supervision
+## PhD Students Supervision and Placement
 
 - Chen Liang (co-chair), Assistant Professor, University of Connecticut
 - Ying Liu (co-chair), Assistant Professor, University of Massachusetts Amherst
