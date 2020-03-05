@@ -21,7 +21,8 @@ author_profile: true
 - Chen Liang (co-chair), Assistant Professor, University of Connecticut
 - Ying Liu (co-chair), Assistant Professor, University of Massachusetts Amherst
 - Cheng Chen (member), Assistant Professor, University of Wisconsin-Milwaukee
-- Qinglai He (co-chair), current PhD student
+- Qinglai He (co-chair), current ASU PhD student
+- Keran Zhao (member), current UIC PhD student
 
 ## Visiting Students/Faculty & Postdocs
 
