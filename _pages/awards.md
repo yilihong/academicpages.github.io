@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## 2020
+- <a href="http://netinst.org/">NET Institute Grant</a>
 - Outstanding PhD Alumni, Fox School of Business, Temple University
 - W. P. Carey School Dean's List for Teaching Impact
 - Huizingh Award for Undergraduate Service to Students Finalist, Arizona State University
