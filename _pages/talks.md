@@ -24,8 +24,6 @@ author_profile: true
 
 1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2019
 
-1. Beijing Institute of Technology, School of Management and Economics, 7/2019
-
 1. The Hong Kong Polytechnic University, PolyU-AIS Research Workshop, 6/2019
 
 1. Boston College, Carroll School of Management, 5/2019
@@ -59,7 +57,3 @@ author_profile: true
 1. HKUST, School of Business, 07/2013
 
 1. City University of Hong Kong, School of Business, 07/2013
-
-1. Remin University of China, School of Business, 07/2011
-
-1. University of Electronic Science and Technology of China, School of Business, 07/2011
