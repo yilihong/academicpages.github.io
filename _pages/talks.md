@@ -4,8 +4,6 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. Wuhan International Conference on E-Business, Keynote Speech, 6/2020 Scheduled 
-
 1. University of Rochester, Simon Business School, 5/2020 Scheduled
 
 1. University of Southern California, Marshall School of Business, 4/2020 Scheduled
