@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yili (Kevin) Hong, Ph.D."
-logo                     : "/images/logo.JPEG"
+logo                     : "/images/logo.JPG"
 title_separator          : "-"
 name                     : &name "Dr. Kevin Hong"
 description              : &description "Yili (Kevin) Hong, Ph.D."
@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Dr. Yili (Kevin) Hong"
   avatar           : "profile.jpeg"
-  bio              : "Associate Professor (tenured), <br /> Nita and Phil Francis Faculty Fellow, <br /> PhD Program Director, <br /> Co-Director of the Digital Society Initiative"
+  bio              : "Professor of Decision and Information Sciences, <br /> Bauer Senior Fellow"
   location         :
-  employer         : "W. P. Carey School of Business, <br /> Arizona State University"
+  employer         : "C. T. Bauer College of Business, <br /> University of Houston"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VwQmUFQAAAAJ&hl=en&oi=ao"
-  email            : "hong@asu.edu"
+  email            : "kevinhong.research@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
