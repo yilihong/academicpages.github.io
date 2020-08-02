@@ -12,7 +12,7 @@ author_profile: true
 - Outstanding Doctoral Mentor Finalist, Arizona State University
 
 ## 2019
-- Associate Editor of the Year, <i>Information Systems Research</i>
+- Associate Editor of the Year Award, <i>Information Systems Research</i>
 - INFORMS Information Systems Society Sandy Slaughter Early Career Award
 - Best Paper Nomination, Conference on Information Systems and Technology
 - Huizing Undergraduate Teaching Award Finalist, Arizona State University
