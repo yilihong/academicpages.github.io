@@ -25,7 +25,9 @@ author_profile: true
 - Qinglai He (co-chair), current ASU PhD student
 - Keran Zhao (member), current UIC PhD student
 
-## Visiting Students/Faculty & Postdocs
+## Postdocs, Visiting Faculty and Students Mentoring
 
-- Lingli Wang (2019-2020), Tsinghua University
-- Rui Gu (2018-2019), University of International Business and Economics
+- Yumei He (2019-), Tsinghua University (Postdoc)
+- Xingchen Xu (2019-), Tsinghua University (Undergraduate)
+- Lingli Wang (2019-), Tsinghua University (PhD Student)
+- Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)
