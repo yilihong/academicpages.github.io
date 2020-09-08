@@ -27,7 +27,7 @@ author_profile: true
 
 ## Postdocs, Visiting Faculty and Students Mentoring
 
-- Yumei He (2019-), Tsinghua University (Postdoc)
+- Yumei He (2019-), Tsinghua University & University of Houston (Postdoc)
 - Xingchen Xu (2019-), Tsinghua University (Undergraduate)
 - Lingli Wang (2019-), Tsinghua University (PhD Student)
 - Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)
