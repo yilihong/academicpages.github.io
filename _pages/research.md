@@ -69,7 +69,7 @@ author_profile: true
 
 ## Selected Working Papers
 
-Wang L, Huang N, Hong Y, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring the Mindset Effects of Temporal Cues in Gamified Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
+Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring the Mindset Effects of Temporal Cues in Gamified Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
 
 Hong Y, Shao BBM. 2020. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
 
