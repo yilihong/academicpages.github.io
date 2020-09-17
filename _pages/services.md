@@ -29,12 +29,13 @@ author_profile: true
 - Chen Liang (co-chair), Assistant Professor, University of Connecticut
 - Ying Liu (co-chair), Assistant Professor, University of Massachusetts Amherst
 - Cheng Chen (member), Assistant Professor, University of Wisconsin-Milwaukee
-- Qinglai He (co-chair), current ASU PhD student
-- Keran Zhao (member), current UIC PhD student
+- Qinglai He (co-chair), currently ASU PhD student
+- Keran Zhao (member), currently UIC PhD student
+- Lingli Wang (member), currently Tsinghua PhD student
 
 ## Postdocs, Visiting Faculty and Students Mentoring
 
-- Yumei He (2019-), Tsinghua University & University of Houston (Postdoc)
+- Yumei He (2019-), University of Houston & Tsinghua University (Postdoc)
 - Xingchen Xu (2019-), Tsinghua University (Undergraduate)
 - Lingli Wang (2019-), Tsinghua University (PhD Student)
 - Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)
