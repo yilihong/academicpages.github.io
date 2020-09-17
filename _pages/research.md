@@ -36,7 +36,7 @@ author_profile: true
 
 1. Huang N, Burtch G, Gu B, Hong Y, Liang C, Wang K, Fu D, Yang B. 2019. [Motivating User-Generated Content with Performance Feedback: Evidence from Randomized Field Experiments](https://pubsonline.informs.org/doi/10.1287/mnsc.2017.2944), *Management Science.* 65(1):327–345. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Performance_Feedback_2019.pdf)
 
-1. Kuang L, Huang N, Hong Y, Yan Z. 2019. [Spillover Effects of Financial Incentives on User Engagement: Evidence From an Online Knowledge Exchange Platform](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550564?journalCode=mmis20), *Journal of Management Information Systems.* 36(1):289–320 [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Spillover_Effect_UGC_2019.pdf)
+1. Kuang L, Huang N, Hong Y, Yan Z. 2019. [Spillover Effects of Financial Incentives on Non-Incentivized User Engagement: Evidence from an Online Knowledge Exchange Platform](https://www.tandfonline.com/doi/abs/10.1080/07421222.2018.1550564?journalCode=mmis20), *Journal of Management Information Systems.* 36(1):289–320 [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Spillover_Effect_UGC_2019.pdf)
 
 1. Hong Y, Hu Y, Burtch G. 2018. [Embeddedness, Pro-Sociality, and Social Influence: Evidence from Online Crowdfunding](https://aisel.aisnet.org/misq/vol42/iss4/11/), *MIS Quarterly.* 42(4):1211–1224 [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MISQ_Embeddedness_2018.pdf)
 
