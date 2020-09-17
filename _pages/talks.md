@@ -4,11 +4,13 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. University of Rochester, Simon Business School, 5/2020 Scheduled
+1. Wuhan International Conference on E-Business, Keynote Speech, Scheduled
 
-1. University of Southern California, Marshall School of Business, 4/2020 Scheduled
+1. University of Rochester, Simon Business School, Scheduled
 
-1. University of Maryland, Robert H. Smith School of Business, 3/2020 Scheduled
+1. University of Southern California, Marshall School of Business, Scheduled
+
+1. University of Maryland, Robert H. Smith School of Business, Scheduled
 
 1. University of Washington, Foster School of Business, 2/2020
 
