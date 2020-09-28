@@ -8,8 +8,8 @@ author_profile: true
 
 ### Design and Evaluation of IT-based Markets and Business Models
 - Digital Platforms
-- Online Auctions
 - FinTech
+- E-Procurement
 - Open Innovation
 
 ### Societal Impact and Business Value of Information Technology
