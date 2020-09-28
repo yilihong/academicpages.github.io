@@ -20,7 +20,7 @@ author_profile: true
 
 ### Human-AI Interaction and Business Analytics
 - Human-AI Interaction
-- Bot Regulation
+- Bot Regulation & Management
 - Social Media Analytics
 - Recommender Systems
  
