@@ -28,7 +28,9 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Zhao K, Hu Y, Hong Y, Westland C. 2020. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, Forthcoming
+1. Hong Y, Shao BBM. 2020. On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms, *Production and Operations Management*, Forthcoming.
+
+1. Zhao K, Hu Y, Hong Y, Westland C. 2020. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, Forthcoming.
 
 1. Huang N, Burtch G, Hong Y, Pavlou PA. 2020. [Unemployment and Worker Participation in the Gig Economy: Evidence from An Online Labor Market](https://pubsonline.informs.org/doi/abs/10.1287/isre.2019.0896), *Information Systems Research,* 31(2):431-448 [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_GigUnemployment_2020.pdf)
 
