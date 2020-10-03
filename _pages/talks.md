@@ -6,6 +6,10 @@ author_profile: true
 
 1. Wuhan International Conference on E-Business, Keynote Speech, Scheduled
 
+1. University of Okalahoma, Price College of Business, Scheduled
+
+1. University of Connecticut, School of Business, Scheduled
+
 1. University of Rochester, Simon Business School, Scheduled
 
 1. University of Southern California, Marshall School of Business, Scheduled

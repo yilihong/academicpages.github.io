@@ -73,11 +73,9 @@ author_profile: true
 
 Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring the Mindset Effects of Temporal Cues in Gamified Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
 
-Hong Y, Shao BBM. 2020. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3294028)
-
 Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2020. [Voice-Based AI in Call Center Customer Service: Evidence from a Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633100)
 
-Huang N, He Y, Xu X, Hong Y. 2020. [Designing Demand Information Disclosure in the Presence of Capacity Constraints: A Large-Scale Randomized Field Experiment on a Matching Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
+Huang N, He Y, Burtch G, Xu X, Hong Y. 2020. [Designing Demand Information Disclosure in the Presence of Capacity Constraints: A Large-Scale Randomized Field Experiment on a Matching Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 
 Hong Y, Peng J, Burtch G, Huang N. 2020. [Direct Messaging and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289)
 
