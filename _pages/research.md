@@ -28,7 +28,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Hong Y, Shao BBM. 2020. On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms, *Production and Operations Management*, Forthcoming.
+1. Hong Y, Shao BBM. 2020. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, Forthcoming.
 
 1. Zhao K, Hu Y, Hong Y, Westland C. 2020. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, Forthcoming.
 
