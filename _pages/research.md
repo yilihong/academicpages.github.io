@@ -28,7 +28,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Li Z, Hong Y, Zhang Z. 2020. [The Empowering and Competition Effects of the Platform-based Sharing Economy on the Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718770), *Journal of Management Information Systems*, Forthcoming.
+1. Li Z, Hong Y, Zhang Z. 2020. [TThe Empowering and Competition Effects of the Platform-Based Sharing Economy on the Supply and Demand Sides of the Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718770), *Journal of Management Information Systems*, Forthcoming.
 
 1. Hong Y, Shao BBM. 2020. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, Forthcoming.
 
