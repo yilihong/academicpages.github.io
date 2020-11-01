@@ -28,7 +28,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Hong Y, Peng J, Burtch G, Huang N. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming
+1. Hong Y, Peng J, Burtch G, Huang N. 2020. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming
 
 1. Li Z, Hong Y, Zhang Z. 2020. [The Empowering and Competition Effects of the Platform-Based Sharing Economy on the Supply and Demand Sides of the Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718770), *Journal of Management Information Systems*, Forthcoming.
 
