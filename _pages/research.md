@@ -79,7 +79,7 @@ Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Ex
 
 Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2020. [Voice-Based AI in Call Center Customer Service: Evidence from a Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633100)
 
-Huang N, He Y, Burtch G, Xu X, Hong Y. 2020. [Designing Demand Information Disclosure in the Presence of Capacity Constraints: A Large-Scale Randomized Field Experiment on a Matching Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
+Huang N, He Y, Burtch G, Xu X, Hong Y. 2020. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 
 Burtch G, He Q, Hong Y, Lee D. 2020. [Peer Awards Increase User Content Generation but Reduce Content Novelty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465879)
 
