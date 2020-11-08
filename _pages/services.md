@@ -17,6 +17,7 @@ author_profile: true
 
 ## Selected Professional Services
 
+- Track Co-Chair for the "Information Systems" Track, Decision Sciences Institute Annual Conference (2021)
 - Track Co-Chair for the "AI Systems" Track, International Conference on Information Systems (2021)
 - Chair of the AIS Early Career Award Committee, Association for Information Systems (2020)
 - Doctoral Consortium Mentor, America's Conference on Information Systems (2020)
