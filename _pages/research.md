@@ -28,11 +28,11 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Hong Y, Peng J, Burtch G, Huang N. 2020. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming
+1. Hong Y, Peng J, Burtch G, Huang N. 2020. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming.
 
 1. Li Z, Hong Y, Zhang Z. 2020. [The Empowering and Competition Effects of the Platform-Based Sharing Economy on the Supply and Demand Sides of the Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718770), *Journal of Management Information Systems*, Forthcoming.
 
-1. Hong Y, Shao BBM. 2020. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, Forthcoming.
+1. Hong Y, Shao BBM. 2020. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Buyer_Experience_2020.pdf)
 
 1. Zhao K, Hu Y, Hong Y, Westland C. 2020. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, Forthcoming.
 
