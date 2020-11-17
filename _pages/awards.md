@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## 2020
+- Best Paper in Track Award, International Conference on Information Systems
+- Best Paper Nomination, INFORMS eBiz Cluster
 - <a href="http://netinst.org/">NET Institute Grant</a>
 - Outstanding PhD Alumni, Fox School of Business, Temple University
 - W. P. Carey School Dean's List for Teaching Impact
