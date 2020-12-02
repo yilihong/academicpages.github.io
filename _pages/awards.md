@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## 2020
+- AIS Distinguished Member
 - Best Paper in Track Award, International Conference on Information Systems
 - Best Paper Nomination, INFORMS eBiz Cluster
 - <a href="http://netinst.org/">NET Institute Grant</a>

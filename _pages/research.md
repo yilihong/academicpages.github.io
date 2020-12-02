@@ -77,7 +77,7 @@ author_profile: true
 
 ## Selected Working Papers
 
-Wang X, Mousavi R, Hong Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3739572)
+Wang X, Mousavi R, Hong Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
 
 Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring the Mindset Effects of Temporal Cues in Gamified Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
 
