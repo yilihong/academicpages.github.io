@@ -87,7 +87,7 @@ Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2020. [Voice-Based AI in Call Cen
 
 Huang N, He Y, Burtch G, Xu X, Hong Y. 2020. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 
-Burtch G, He Q, Hong Y, Lee D. 2020. [Peer Awards Increase User Content Generation but Reduce Content Novelty](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465879)
+Burtch G, He Q, Hong Y, Lee D. 2020. [Peer Awards Retain New Users and Encourage Exploitation in Users’ Production of Creative UGC](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465879)
 
 Zhao K, Lu Y, Hu Y, Hong Y. 2020. [Understanding the Nature and Effects of Content Providers’ Switching Behaviors: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508)
 
