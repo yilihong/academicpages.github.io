@@ -4,17 +4,19 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. Wuhan International Conference on E-Business, Keynote Speech, Scheduled
+1. Wuhan International Conference on E-Business, Keynote Speech, Spring 2021
 
-1. University of Okalahoma, Price College of Business, Scheduled
+1. Erasmus University, Rotterdam School of Management, Spring 2021
 
-1. University of Connecticut, School of Business, Scheduled
+1. University of Okalahoma, Price College of Business, Spring 2021
 
-1. University of Rochester, Simon Business School, Scheduled
+1. University of Connecticut, School of Business, Spring 2021
 
-1. University of Southern California, Marshall School of Business, Scheduled
+1. University of Rochester, Simon Business School, Spring 2021
 
-1. University of Maryland, Robert H. Smith School of Business, Scheduled
+1. University of Southern California, Marshall School of Business, Spring 2021
+
+1. University of Maryland, Robert H. Smith School of Business, Spring 2021
 
 1. University of Washington, Foster School of Business, 2/2020
 
