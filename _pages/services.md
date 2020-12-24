@@ -26,18 +26,17 @@ author_profile: true
  
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
-## PhD Students Supervision and Placement
+## PhD/Postdoc Students Supervision and Placement
 
-- Chen Liang (co-chair), Assistant Professor, University of Connecticut
-- Ying Liu (co-chair), Assistant Professor, University of Massachusetts Amherst
-- Cheng Chen (member), Assistant Professor, University of Wisconsin-Milwaukee
-- Qinglai He (co-chair), currently ASU PhD student
+- Qinglai He (co-chair), Assistant Professor (2021) University of Wisconsin-Madison
+- Chen Liang (co-chair), Assistant Professor (2019), University of Connecticut
+- Ying Liu (co-chair), Assistant Professor (2018), University of Massachusetts Amherst
+- Cheng Chen (member), Assistant Professor (2019), University of Wisconsin-Milwaukee
 - Keran Zhao (member), currently UIC PhD student
+- Yumei He (postdoc), currently UH postdoc
 - Lingli Wang (member), currently Tsinghua PhD student
 
-## Postdocs, Visiting Faculty and Students Mentoring
-
-- Yumei He (2019-), University of Houston & Tsinghua University (Postdoc)
+## Visiting Faculty and Students Mentoring
 - Xingchen Xu (2019-), Tsinghua University (Undergraduate)
 - Lingli Wang (2019-), Tsinghua University (PhD Student)
 - Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)
