@@ -28,7 +28,7 @@ author_profile: true
 
 ## PhD/Postdoc Students Supervision and Placement
 
-- Qinglai He (co-chair), Assistant Professor (2021) University of Wisconsin-Madison
+- Qinglai He (co-chair), Assistant Professor (2021), University of Wisconsin-Madison
 - Chen Liang (co-chair), Assistant Professor (2019), University of Connecticut
 - Ying Liu (co-chair), Assistant Professor (2018), University of Massachusetts Amherst
 - Cheng Chen (member), Assistant Professor (2019), University of Wisconsin-Milwaukee
