@@ -19,7 +19,6 @@ author_profile: true
 
 - Track Co-Chair for the "Information Systems" Track, Decision Sciences Institute Annual Conference (2021)
 - Track Co-Chair for the "AI Systems" Track, International Conference on Information Systems (2021)
-- Chair of the AIS Early Career Award Committee, Association for Information Systems (2020)
 - Doctoral Consortium Mentor, America's Conference on Information Systems (2020)
 - Cluster Co-chair, INFORMS Information Systems Society Cluster (2019)
 - Conference Co-chair, INFORMS Conference on Information Systems and Technology (2018)
@@ -28,15 +27,19 @@ author_profile: true
 
 ## PhD/Postdoc Students Supervision and Placement
 
-- Qinglai He (co-chair), Assistant Professor (2021), University of Wisconsin-Madison
-- Chen Liang (co-chair), Assistant Professor (2019), University of Connecticut
-- Ying Liu (co-chair), Assistant Professor (2018), University of Massachusetts Amherst
-- Cheng Chen (member), Assistant Professor (2019), University of Wisconsin-Milwaukee
-- Keran Zhao (member), currently UIC PhD student
-- Yumei He (postdoc), currently UH postdoc
-- Lingli Wang (member), currently Tsinghua PhD student
+### Dissertation Chair / Co-Chair
+- Qinglai He, Assistant Professor (2021), Wisconsin School of Business, University of Wisconsin-Madison
+- Chen Liang, Assistant Professor (2019), School of Business, University of Connecticut
+- Ying Liu, Assistant Professor (2018), Isenberg School of Management, University of Massachusetts Amherst
+
+### Dissertation Member
+- Cheng Chen, Assistant Professor (2020), University of Wisconsin-Milwaukee
+- Keran Zhao (2021), currently UIC PhD student
+- Lingli Wang (2021), currently Tsinghua PhD student
+
+### Postdoc Advisor
+- Yumei He (2022), currently UH postdoc
 
 ## Visiting Faculty and Students Mentoring
 - Xingchen Xu (2019-), Tsinghua University (Undergraduate)
-- Lingli Wang (2019-), Tsinghua University (PhD Student)
 - Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)
