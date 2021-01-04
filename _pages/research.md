@@ -79,6 +79,8 @@ author_profile: true
 
 Wang X, Mousavi R, Hong Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
 
+Burtch G, He Q, Hong Y, Lee D. 2020. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465879)
+
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
 
 Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring the Mindset Effects of Temporal Cues in Gamified Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
@@ -86,8 +88,6 @@ Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Ex
 Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2020. [Voice-Based AI in Call Center Customer Service: Evidence from a Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633100)
 
 Huang N, He Y, Burtch G, Xu X, Hong Y. 2020. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
-
-Burtch G, He Q, Hong Y, Lee D. 2020. [Peer Awards Retain New Users and Encourage Exploitation in Users’ Production of Creative UGC](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3465879)
 
 Zhao K, Lu Y, Hu Y, Hong Y. 2020. [Understanding the Nature and Effects of Content Providers’ Switching Behaviors: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508)
 
