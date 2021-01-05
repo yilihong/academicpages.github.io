@@ -11,18 +11,21 @@ author_profile: true
 - FinTech
 - E-Procurement
 - Open Innovation
+- Live streaming
 
 ### Societal Impact and Business Value of Information Technology
 - Future of Work
 - Sharing Economy
 - Gig Economy
-- IT Labor
+- Monitoring Technologies
+- Business Value of Analytics
 
 ### Human-AI Interaction and Business Analytics
 - Human-AI Interaction
 - Bot Design, Management, & Regulation
 - Social Media Analytics
 - Recommender Systems
+- Measuring novelty and creativity
  
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
