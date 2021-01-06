@@ -18,6 +18,8 @@ author_profile: true
 
 1. University of Maryland, Robert H. Smith School of Business, Spring 2021
 
+1. Lehigh University, College of Business, Spring 2021
+
 1. University of Washington, Foster School of Business, 2/2020
 
 1. University of Houston, Bauer College of Business, 12/2019
