@@ -31,7 +31,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Burtch G, Hong Y, Kumar S. 2020. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436213), *Production and Operations Management*, Forthcoming.
+1. Burtch G, Hong Y, Kumar S. 2020. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436213), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2020. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming.
 
