@@ -92,7 +92,7 @@ Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2020. [Voice-Based AI in Call Cen
 
 Huang N, He Y, Burtch G, Xu X, Hong Y. 2020. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 
-Zhao K, Lu Y, Hu Y, Hong Y. 2020. [Understanding the Nature and Effects of Content Providers’ Switching Behaviors: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508)
+Zhao K, Lu Y, Hu Y, Hong Y. 2020. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508)
 
 Hu Y, Hong Y. 2020. [SHEDR: An End-to-End Neural Event Detection and Recommendation Framework for Hyperlocal News Using Social Media](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3677461)
 
