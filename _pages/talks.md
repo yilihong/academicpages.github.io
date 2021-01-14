@@ -10,15 +10,15 @@ author_profile: true
 
 1. University of Okalahoma, Price College of Business, Spring 2021
 
-1. University of Connecticut, School of Business, Spring 2021
-
 1. University of Rochester, Simon Business School, Spring 2021
 
 1. University of Southern California, Marshall School of Business, Spring 2021
 
 1. University of Maryland, Robert H. Smith School of Business, Spring 2021
 
-1. Lehigh University, College of Business, Spring 2021
+1. University of Connecticut, School of Business, 2/2021
+
+1. Lehigh University, College of Business, 1/2021
 
 1. University of Washington, Foster School of Business, 2/2020
 

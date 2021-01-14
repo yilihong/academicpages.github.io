@@ -11,7 +11,7 @@ author_profile: true
 - FinTech
 - E-Procurement
 - Open Innovation
-- Live streaming
+- Live Streaming
 
 ### Societal Impact and Business Value of Information Technology
 - Future of Work
@@ -25,7 +25,7 @@ author_profile: true
 - Bot Design, Management, & Regulation
 - Social Media Analytics
 - Recommender Systems
-- Measuring novelty and creativity
+- Measuring Novelty and Creativity
  
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
