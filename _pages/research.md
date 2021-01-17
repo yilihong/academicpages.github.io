@@ -80,6 +80,8 @@ author_profile: true
 
 ## Selected Working Papers
 
+He Q. Hong Y, Raghu TS. 2021. [The Effects of Machine-powered Platform Governance: An Empirical Study of Content Moderation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680)
+
 Wang X, Mousavi R, Hong Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
 
 Burtch G, He Q, Hong Y, Lee D. 2020. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701259)
