@@ -31,6 +31,7 @@ author_profile: true
 - Qinglai He, Assistant Professor (2021), Wisconsin School of Business, University of Wisconsin-Madison
 - Chen Liang, Assistant Professor (2019), School of Business, University of Connecticut
 - Ying Liu, Assistant Professor (2018), Isenberg School of Management, University of Massachusetts Amherst
+- Amin Sabzehzar (2022), currently PhD Candidate at ASU
 
 ### Dissertation Member
 - Cheng Chen, Assistant Professor (2020), University of Wisconsin-Milwaukee
