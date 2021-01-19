@@ -6,8 +6,6 @@ author_profile: true
 
 1. Wuhan International Conference on E-Business, Keynote Speech, Spring 2021
 
-1. University of Okalahoma, Price College of Business, Spring 2021
-
 1. University of Rochester, Simon Business School, Spring 2021
 
 1. University of Southern California, Marshall School of Business, Spring 2021
@@ -15,6 +13,8 @@ author_profile: true
 1. University of Maryland, Robert H. Smith School of Business, Spring 2021
 
 1. Erasmus University, Rotterdam School of Management, 5/2021
+
+1. University of Okalahoma, Price College of Business, 4/2021
 
 1. University of Connecticut, School of Business, 2/2021
 
