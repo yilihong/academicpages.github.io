@@ -31,6 +31,8 @@ author_profile: true
 
 ## Selected Journal Publications
 
+1. Burtch G, He Q, Hong Y, Lee D. 2021. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701259), *Management Science*, Forthcoming.
+
 1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436213), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming.
@@ -83,8 +85,6 @@ author_profile: true
 He Q, Hong Y, Raghu TS. 2021. [The Effects of Machine-powered Platform Governance: An Empirical Study of Content Moderation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680)
 
 Wang X, Mousavi R, Hong Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
-
-Burtch G, He Q, Hong Y, Lee D. 2020. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701259)
 
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
 
