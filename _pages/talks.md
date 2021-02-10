@@ -14,6 +14,8 @@ author_profile: true
 
 1. Erasmus University, Rotterdam School of Management, 5/2021
 
+1. University of Houston, Hewlett Packard Enterprise Data Science Institute, 4/2021
+
 1. University of Okalahoma, Price College of Business, 4/2021
 
 1. University of Connecticut, School of Business, 2/2021
