@@ -7,6 +7,7 @@ author_profile: true
 ## Editorships
 
 - Senior Editor, *Production and Operations Management* (2019–)
+- Guest Co-Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
 - Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
 - Associate Editor, *Information Systems Research* (2018–)
 - Associate Editor, *Journal of the Association for Information Systems* (2019–)
