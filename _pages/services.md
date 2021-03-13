@@ -35,12 +35,12 @@ author_profile: true
 - Amin Sabzehzar (2022), currently PhD Candidate at ASU
 
 ### Dissertation Member
+- Keran Zhao, Assistant Professor (2021), University of Houston
 - Cheng Chen, Assistant Professor (2020), University of Wisconsin-Milwaukee
-- Keran Zhao (2021), currently UIC PhD student
 - Lingli Wang (2021), currently Tsinghua PhD student
 
 ### Postdoc Advisor
-- Yumei He (2022), currently UH postdoc
+- Yumei He (2022), currently UH post-doctoral fellow
 
 ## Visiting Faculty and Students Mentoring
 - Xingchen Xu (2019-), Tsinghua University (Undergraduate)

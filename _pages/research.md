@@ -100,4 +100,4 @@ Hu Y, Hong Y. 2020. [SHEDR: An End-to-End Neural Event Detection and Recommendat
 
 Liu Q, Du Q, Hong Y, Fan W. 2019. [Idea Implementation and Recommendation in Open Innovation Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3480760)
 
-Liang C, Hong Y, Gu B. 2019. [Effects of IT-Enabled Monitoring on Labor Contracting in Online Platforms: Evidence from a Natural Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
+Liang C, Hong Y, Gu B. 2019. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
