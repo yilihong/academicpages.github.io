@@ -35,8 +35,8 @@ author_profile: true
 - Amin Sabzehzar (2022), currently PhD Candidate at ASU
 
 ### Dissertation Member
-- Keran Zhao, Assistant Professor (2021), University of Houston
-- Cheng Chen, Assistant Professor (2020), University of Wisconsin-Milwaukee
+- Keran Zhao, Assistant Professor (2021), Bauer College of Business, University of Houston
+- Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 - Lingli Wang (2021), currently Tsinghua PhD student
 
 ### Postdoc Advisor
