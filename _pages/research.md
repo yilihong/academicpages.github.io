@@ -37,7 +37,7 @@ author_profile: true
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming.
 
-1. Li Z, Hong Y, Zhang Z. 2021. [The Empowering and Competition Effects of the Platform-Based Sharing Economy on the Supply and Demand Sides of the Labor Market](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3718770), *Journal of Management Information Systems*, Forthcoming.
+1. Li Z, Hong Y, Zhang Z. 2021. [The Empowering and Competition Effects of the Platform-Based Sharing Economy on the Supply and Demand Sides of the Labor Market](https://urldefense.com/v3/__https://www.tandfonline.com/eprint/NV4YPPYWBCBWWHQZYBDG/full?target=10.1080*07421222.2021.1870387__;Lw!!LkSTlj0I!UWhkN7ZeZgmRaMvNV4Khy7QK99k6BxaXLksNR-PFMTZ8IgF-yyG_xKutptHdfHI$), *Journal of Management Information Systems*, 38(1):140-165 [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_SharingEconomy_2021.pdf)
 
 1. Hong Y, Shao BBM. 2021. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Buyer_Experience_2020.pdf)
 
