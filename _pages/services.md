@@ -37,7 +37,7 @@ author_profile: true
 ### Dissertation Member
 - Keran Zhao, Assistant Professor (2021), Bauer College of Business, University of Houston
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
-- Lingli Wang (2021), currently Tsinghua PhD student
+- Lingli Wang, Assistant Professor (2021), Beijing University of Posts and Telecommunications
 
 ### Postdoc Advisor
 - Yumei He (2022), currently UH post-doctoral fellow
