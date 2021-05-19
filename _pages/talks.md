@@ -12,7 +12,7 @@ author_profile: true
 
 <!-- 1. University of Maryland, Robert H. Smith School of Business, Spring 2021 -->
 
-1. Wuhan International Conference on E-Business, Keynote Speech, 5/2021
+1. Wuhan International Conference on E-Business, [Keynote Speech](http://whiceb.cug.edu.cn/cn/keynotespeeches/keynotespeeches.html), 5/2021
 
 1. Erasmus University, Rotterdam School of Management, 5/2021
 
