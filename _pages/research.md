@@ -88,7 +88,7 @@ author_profile: true
 
 He Q, Hong Y, Raghu TS. 2021. [The Effects of Machine-powered Platform Governance: An Empirical Study of Content Moderation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680)
 
-Wang X, Mousavi R, Hong Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
+Wang X, Mousavi R, Hong Y, Ren Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
 
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
 
