@@ -35,15 +35,15 @@ author_profile: true
 
 1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2422686), *Information Systems Research*, Forthcoming
 
-1. Burtch G, He Q, Hong Y, Lee D. 2021. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701259), *Management Science*, Forthcoming.
+1. Burtch G, He Q, Hong Y, Lee D. 2021. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701259), *Management Science*, Forthcoming.[![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2021.pdf.pdf)
 
 1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436213), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming.
 
-1. Hong Y, Shao BBM. 2021. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Buyer_Experience_2020.pdf)
-
 1. Zhao K, Hu Y, Hong Y, Westland C. 2021. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, Forthcoming.
+
+1. Hong Y, Shao BBM. 2021. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, 30(4):1034-1051. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Buyer_Experience_2021.pdf)
 
 1. Li Z, Hong Y, Zhang Z. 2021. [The Empowering and Competition Effects of the Platform-Based Sharing Economy on the Supply and Demand Sides of the Labor Market](https://urldefense.com/v3/__https://www.tandfonline.com/eprint/NV4YPPYWBCBWWHQZYBDG/full?target=10.1080*07421222.2021.1870387__;Lw!!LkSTlj0I!UWhkN7ZeZgmRaMvNV4Khy7QK99k6BxaXLksNR-PFMTZ8IgF-yyG_xKutptHdfHI$), *Journal of Management Information Systems*, 38(1):140-165 [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_SharingEconomy_2021.pdf)
 
