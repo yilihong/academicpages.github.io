@@ -41,7 +41,7 @@ author_profile: true
 
 1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436213), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
 
-1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming.
+1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
 
 1. Zhao K, Hu Y, Hong Y, Westland C. 2021. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, Forthcoming.
 
