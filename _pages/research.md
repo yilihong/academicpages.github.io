@@ -31,7 +31,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-<!-- 1. Hu Y, Hong Y. 2021. [SHEDR: An End-to-End Neural Event Detection and Recommendation Framework for Hyperlocal News Using Social Media](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3677461), *INFORMS Journal on Computing*, Forthcoming. -->
+1. Hu Y, Hong Y. 2021. [SHEDR: An End-to-End Neural Event Detection and Recommendation Framework for Hyperlocal News Using Social Media](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3677461), *INFORMS Journal on Computing*, Forthcoming.
 
 1. Li Z, Liang C, Hong Y, Zhang Z. 2021. [How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Effect of Urban Compactness](http://kevinhong.me/research/), *Production and Operations Management*, Forthcoming.
 
