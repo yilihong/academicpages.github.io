@@ -8,10 +8,6 @@ author_profile: true
 
 1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, Summer 2021
 
-<!-- 1. University of Rochester, Simon Business School, Spring 2021 -->
-
-<!-- 1. University of Maryland, Robert H. Smith School of Business, Spring 2021 -->
-
 1. Wuhan International Conference on E-Business, [Keynote Speech](http://whiceb.cug.edu.cn/cn/keynotespeeches/keynotespeeches.html), 5/2021
 
 1. Erasmus University, Rotterdam School of Management, 5/2021
