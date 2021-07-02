@@ -6,7 +6,7 @@ author_profile: true
 
 1. University of Southern California, Marshall School of Business, Fall 2021
 
-1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, Summer 2021
+1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2021
 
 1. Wuhan International Conference on E-Business, Keynote Speech, 5/2021
 
