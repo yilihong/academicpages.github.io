@@ -43,7 +43,7 @@ author_profile: true
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
 
-1. Zhao K, Hu Y, Hong Y, Westland C. 2021. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, Forthcoming.
+1. Zhao K, Hu Y, Hong Y, Westland C. 2021. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, 22(4):1076-1098. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JAIS_Twitch_2021.pdf)
 
 1. Hong Y, Shao BBM. 2021. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, 30(4):1034-1051. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Buyer_Experience_2021.pdf)
 
