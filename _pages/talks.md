@@ -6,6 +6,8 @@ author_profile: true
 
 1. University of Southern California, Marshall School of Business, Fall 2021
 
+1. Tsinghua University, School of Economics and Management, 10/2021
+
 1. University of Maryland, R. H. Smith School of Business, 9/2021
 
 1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2021
