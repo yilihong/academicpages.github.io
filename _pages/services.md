@@ -6,14 +6,19 @@ author_profile: true
 
 ## Editorships
 
+### Editorial Appointments
+
 - Senior Editor, *Production and Operations Management* (2019–)
-- Guest Co-Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
-- Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
 - Associate Editor, *Information Systems Research* (2018–)
 - Associate Editor, *Journal of the Association for Information Systems* (2019–)
+- Editorial Board, *Journal of the Association for Information Systems* (2017–2019)
+
+### Special Issue Editors
+
+- Co-Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
+- Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
 - Associate Editor, *Information Systems Research*, Special Issue on “Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations and Society”
 - Associate Editor, *Information Systems Research*, Special Issue on “Market Design and Analytics”
-- Editorial Board, *Journal of the Association for Information Systems* (2017–2019)
 - Editorial Board, *Journal of the Association for Information Systems*, Special Issue on “Addressing Societal Challenges through Analytics”
 
 ## Selected Professional Services
@@ -32,7 +37,8 @@ author_profile: true
 - Qinglai He, Assistant Professor (2021), Wisconsin School of Business, University of Wisconsin-Madison
 - Chen Liang, Assistant Professor (2019), School of Business, University of Connecticut
 - Ying Liu, Assistant Professor (2018), Isenberg School of Management, University of Massachusetts Amherst
-- Amin Sabzehzar (2022), currently PhD Candidate at ASU
+- Amin Sabzehzar, currently PhD student at ASU
+- Yifan Ren, currently PhD student at UH
 
 ### Dissertation Member
 - Keran Zhao, Assistant Professor (2021), Bauer College of Business, University of Houston
