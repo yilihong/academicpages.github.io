@@ -17,6 +17,6 @@ Prior to joining the Bauer College at UH, I worked at the W. P. Carey School of 
 
 Prior to my academic career, I have worked as an analyst at a leading investment bank and as a language specialist for the International Olympics Committee. Besides research and teaching as a faculty member, I serve as an advisor or external research scientist for a number of tech companies, primarily working with them on large-scale digital field experimentation efforts. Some of my corporate research partners include Alibaba, Lyft, Freelancer, Magene, fits.me, Summer, Meishijie, Ports America, Extole, Ookong, and Picmonic.
 
-In my spare time, I enjoy reading books and writing codes. I am an avid [*Emacs*](https://www.spacemacs.org/) user, a [*typography*](https://fontsinuse.com/) enthusiast, a dedicated [*Redditor*](https://www.reddit.com/), and a famed [*mechanical keyboard*](https://www.reddit.com/r/MechanicalKeyboards/) designer and collector.
+In my spare time, I enjoy reading books and writing codes. I am an avid [*Emacs*](https://www.spacemacs.org/) user, a [*typography*](https://fontsinuse.com/) enthusiast, a frequent [*Redditor*](https://www.reddit.com/), and a [*mechanical keyboard*](https://www.reddit.com/r/MechanicalKeyboards/) designer and collector.
 
 <!-- {% include image.html url="/images/gig1.jpg" caption="The gig economy is transforming how individuals work and how firms recruit." width=500 align="center" %} -->
