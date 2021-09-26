@@ -8,15 +8,13 @@ author_profile: true
 
 ### Design and Evaluation of IT-based Markets and Business Models
 - Digital Platforms
-- FinTech
-- E-Procurement
-- Open Innovation
+- FinTech, Blockchain
 - Live Streaming
+- AI-based New Business Models
 
 ### Societal Impact and Business Value of Information Technology
 - Future of Work
-- Sharing Economy
-- Gig Economy
+- Sharing & Gig Economy
 - Monitoring Technologies
 - Business Value of Analytics
 
@@ -25,8 +23,11 @@ author_profile: true
 - Bot Design, Management, & Regulation
 - Social Media Analytics
 - Recommender Systems
-- Measuring Novelty and Creativity
  
+### Preferred Methods
+- Econometrics
+- Experiments
+- ML/DL
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
 ## Selected Journal Publications
@@ -39,9 +40,9 @@ author_profile: true
 
 1. Li Z, Liang C, Hong Y, Zhang Z. 2021. [How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness](http://kevinhong.me/research/), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Congestion_2021.pdf)
 
-1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436213), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
-
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3151289), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
+
+1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3436213), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
 
 1. Zhao K, Hu Y, Hong Y, Westland C. 2021. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, 22(4):1076-1098. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JAIS_Twitch_2021.pdf)
 
