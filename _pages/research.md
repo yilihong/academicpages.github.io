@@ -6,7 +6,7 @@ author_profile: true
 
 ## Research Areas
 
-### Design and Evaluation of IT-based Markets and Business Models
+### Design and Evaluation of IT-enabled Markets and Business Models
 - Digital Platforms
 - FinTech, Blockchain
 - Live Streaming
@@ -25,9 +25,7 @@ author_profile: true
 - Recommender Systems
  
 ### Preferred Methods
-- Econometrics
-- Experiments
-- ML/DL
+- Econometrics, Experiments, Machine Learning, Deep Learning
 <!-- <hr style="clear:both;visibility: hidden;" />   -->
 
 ## Selected Journal Publications
