@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. University of Southern California, Marshall School of Business, Fall 2021
+<!-- 1. University of Southern California, Marshall School of Business, Fall 2021 -->
 
 1. Tsinghua University, School of Economics and Management, 10/2021
 
