@@ -30,7 +30,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2422686), *Information Systems Research*, Forthcoming
+1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2422686), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Measuring_ProductType_2021.pdf)
 
 1. Burtch G, He Q, Hong Y, Lee D. 2021. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701259), *Management Science*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2021.pdf)
 
