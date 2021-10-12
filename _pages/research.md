@@ -91,8 +91,7 @@ He Q, Hong Y, Raghu TS. 2021. [The Effects of Machine-powered Platform Governanc
 
 Huang N, Burtch G, Hong Y, He Y. 2021. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 
-Liang C, Hong Y, Gu B. 2021 [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring
-](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
+Liang C, Hong Y, Gu B. 2021. [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
 
 Liu Q, Du Q, Hong Y, Fan W. 2021. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
 
