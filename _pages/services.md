@@ -49,5 +49,5 @@ author_profile: true
 - Yumei He (2022), currently UH post-doctoral fellow
 
 ## Visiting Faculty and Students Mentoring
-- Xingchen Xu (2019-), Tsinghua University (Undergraduate)
+- Xingchen Xu (2019-2021), Tsinghua University (Undergraduate)
 - Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)

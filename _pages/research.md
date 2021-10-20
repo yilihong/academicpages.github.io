@@ -95,6 +95,10 @@ Liang C, Hong Y, Gu B. 2021. [Can Monitoring Help Flatten the World? An Empirica
 
 Liu Q, Du Q, Hong Y, Fan W. 2021. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
 
+Liang C, Hong Y, Gu B. 2021. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
+
+Hou J, Huang N, Burtch G, Hong Y, Chen P. 2021. [Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946059)
+
 Wang X, Mousavi R, Hong Y, Ren Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
 
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
@@ -105,4 +109,4 @@ Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2020. [Voice-Based AI in Call Cen
 
 Zhao K, Lu Y, Hu Y, Hong Y. 2020. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508)
 
-Liang C, Hong Y, Gu B. 2019. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
+
