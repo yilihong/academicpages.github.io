@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 ## 2021
+- Best Paper Award (runner-up), INFORMS eBiz Cluster
 - Best Paper Nomination, Conference on Information Systems and Technology
 - Research Star Award, Bauer College of Business
 
