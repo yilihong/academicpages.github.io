@@ -8,7 +8,7 @@ author_profile: true
 
 1. University of Rochester, Simon Business School, Spring 2022
 
-1. University of Pittsburgh, Katz Graduate School of Business, 11/2022
+1. University of Pittsburgh, Katz Graduate School of Business, 11/2021
 
 1. University of Miami, Herbert Business School, 11/2021
 
