@@ -6,14 +6,17 @@ author_profile: true
 
 ## Research Areas
 
-### Design and Evaluation of IT-enabled Markets and Business Models
-- Digital Platforms, FinTech, Blockchain, Live Streaming, AI-based New Business Models
+### Digital Platform Design & Strategy
+- Matching Markets, FinTech, Human-AI Interaction
 
-### Societal Impact and Business Value of Information Technology
-- Future of Work, Sharing & Gig Economy, Monitoring Technologies, Business Value of Analytics
+### Digital Media & Content
+- Live Streaming, Social Media, User-generated Content
 
-### Human-AI Interaction and Business Analytics
-- Human-AI Collaboration, Bot Design, Management, & Regulation, Social Media Analytics,  Recommender Systems
+### Societal Impact of Technology
+- Future of Work, Sharing & Gig Economy, Monitoring
+
+### Business Analytics
+- Recommender Systems, Text Analytics, Business Value of Analytics
  
 ### Preferred Methods
 - Econometrics, Experiments, Machine Learning, Deep Learning
@@ -21,7 +24,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-### Papers on Platform Design & Strategy
+### Papers on Digital Platform Design & Strategy
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://pubsonline.informs.org/doi/10.1287/isre.2021.1003), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
 
@@ -51,9 +54,9 @@ author_profile: true
 
 ### Papers on Digital Media and Content
 
-1. Burtch G, He Q, Hong Y, Lee D. 2021. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4040), *Management Science*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2021.pdf)
-
 1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1041), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Measuring_ProductType_2021.pdf)
+
+1. Burtch G, He Q, Hong Y, Lee D. 2021. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4040), *Management Science*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2021.pdf)
 
 1. Zhao K, Hu Y, Hong Y, Westland C. 2021. [Understanding Characteristics of Popular Streamers on Live Streaming Platforms: Evidence from Twitch.tv](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3388949), *Journal of the Association for Information Systems*, 22(4):1076-1098. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JAIS_Twitch_2021.pdf)
 
