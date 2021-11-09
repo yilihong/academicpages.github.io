@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research Areas
+<!-- ## Research Areas
 
 ### Digital Platform Design & Strategy
 - Matching Markets, FinTech, Human-AI Interaction
@@ -20,7 +20,7 @@ author_profile: true
 
 ### Preferred Methods
 - Econometrics, Experiments, Machine Learning, Deep Learning
-
+ -->
 
 ## Selected Journal Publications
 
