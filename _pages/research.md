@@ -8,12 +8,16 @@ author_profile: true
 
 ### Digital Platform Design & Strategy
 - Matching Markets, FinTech, Human-AI Interaction
+
 ### Digital Media & Content
 - Live Streaming, Social Media, User-generated Content
+
 ### Societal Impact of Technology
 - Future of Work, Sharing & Gig Economy, Monitoring
+
 ### Business Analytics
 - Recommender Systems, Text Analytics, Business Value of Analytics
+
 ### Preferred Methods
 - Econometrics, Experiments, Machine Learning, Deep Learning
 
@@ -22,6 +26,7 @@ author_profile: true
 ### <ins>Papers on Digital Platform Design & Strategy</ins>
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://pubsonline.informs.org/doi/10.1287/isre.2021.1003), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
+
 1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://onlinelibrary.wiley.com/doi/10.1111/poms.13341), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
 
 1. Hong Y, Shao BBM. 2021. [On Factors that Moderate the Effect of Buyer-Supplier Experience on E-Procurement Platforms](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13291), *Production and Operations Management*, 30(4):1034-1051. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Buyer_Experience_2021.pdf)
