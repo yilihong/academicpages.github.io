@@ -24,7 +24,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-### Papers on Digital Platform Design & Strategy
+### <ins>Papers on Digital Platform Design & Strategy</ins>
 
 1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://pubsonline.informs.org/doi/10.1287/isre.2021.1003), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
 
