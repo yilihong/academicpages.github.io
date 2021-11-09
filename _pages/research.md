@@ -52,7 +52,7 @@ author_profile: true
 
 
 
-### Papers on Digital Media and Content
+### <ins>Papers on Digital Media and Content</ins>
 
 1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1041), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Measuring_ProductType_2021.pdf)
 
@@ -71,7 +71,7 @@ author_profile: true
 1. Dimoka A, Hong Y, Pavlou PA. 2012. [On Product Uncertainty in Online Markets: Theory and Evidence](https://aisel.aisnet.org/misq/vol36/iss2/6/), *MIS Quarterly.* 36(2):395-426. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MISQ_Product_Uncertainty_2012.pdf)
 
 
-### Papers on Societal Impact of Technology
+### <ins>Papers on Societal Impact of Technology</ins>
 
 1. Li Z, Liang C, Hong Y, Zhang Z. 2021. [How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness](https://onlinelibrary.wiley.com/doi/10.1111/poms.13530), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Congestion_2021.pdf)
 
@@ -84,7 +84,7 @@ author_profile: true
 1. Kanat I, Hong Y, Raghu TS. 2018. [Surviving in Global Online Labor Markets for IT Services: A Geo-economic Analysis](https://pubsonline.informs.org/doi/abs/10.1287/isre.2017.0751), *Information Systems Research.* 29(4):893-909. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Survival_in_OLM_2018.pdf)
 
 
-### Papers on Business Analytics
+### <ins>Papers on Business Analytics</ins>
 
 1. Hu Y, Hong Y. 2021. [SHEDR: An End-to-End Neural Event Detection and Recommendation Framework for Hyperlocal News Using Social Media](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3677461), *INFORMS Journal on Computing*, Forthcoming.
 
