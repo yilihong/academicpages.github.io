@@ -40,13 +40,13 @@ author_profile: true
 - Amin Sabzehzar, currently PhD student at ASU
 - Yifan Ren, currently PhD student at UH
 
+### Postdoc Advisor
+- Yumei (Joy) He, Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
+
 ### Dissertation Member
-- Keran Zhao, Assistant Professor (2021), Bauer College of Business, University of Houston
+- Keran Zhao, Assistant Professor (2021), C. T. Bauer College of Business, University of Houston
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 - Lingli Wang, Assistant Professor (2021), Beijing University of Posts and Telecommunications
-
-### Postdoc Advisor
-- Yumei He (2022), currently UH post-doctoral fellow
 
 ## Visiting Faculty and Students Mentoring
 - Xingchen Xu (2019-2021), Tsinghua University (Undergraduate)
