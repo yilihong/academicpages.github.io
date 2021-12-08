@@ -5,6 +5,8 @@ author_profile: true
 ---
 
 ## 2021
+- Best Paper in Track Award (IS Design, Development and Project Management Track), International Conference on Information Systems
+- Kauffman Best Paper Award Nomination, International Conference on Information Systems
 - Best Overall Conference Paper Award Nomination, International Conference on Information Systems
 - Best Student Paper Award Nomination, International Conference on Information Systems
 - Best Paper Award (runner-up), INFORMS eBiz Cluster
