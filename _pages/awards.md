@@ -10,7 +10,7 @@ author_profile: true
 - Best Overall Conference Paper Award Nomination, International Conference on Information Systems
 - Best Student Paper Award Nomination, International Conference on Information Systems
 - Best Paper Award (runner-up), INFORMS eBiz Cluster
-- Best Paper Nomination, Conference on Information Systems and Technology
+- Best Paper Nomination, INFORMS Conference on Information Systems and Technology
 - Research Star Award, Bauer College of Business
 
 ## 2020

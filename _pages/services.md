@@ -34,7 +34,7 @@ author_profile: true
 ## PhD/Postdoc Students Supervision and Placement
 
 ### Dissertation Chair / Co-Chair
-- Qinglai He, Assistant Professor (2021), Wisconsin School of Business, University of Wisconsin-Madison
+- Qinglai He, Assistant Professor (2021), Wisconsin School of Business, University of Wisconsin-Madison (ICIS SIGMIS Doctoral Dissertation Award Runnerup)
 - Chen Liang, Assistant Professor (2019), School of Business, University of Connecticut
 - Ying Liu, Assistant Professor (2018), Isenberg School of Management, University of Massachusetts Amherst
 - Amin Sabzehzar, currently PhD student at ASU
