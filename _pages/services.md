@@ -17,6 +17,7 @@ author_profile: true
 
 - Co-Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
 - Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
+- Senior Editor, *Production and Operations Management*, Special Issue on "Role of National Culture in Operations Management"
 - Associate Editor, *Information Systems Research*, Special Issue on “Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations and Society”
 - Associate Editor, *Information Systems Research*, Special Issue on “Market Design and Analytics”
 - Editorial Board, *Journal of the Association for Information Systems*, Special Issue on “Addressing Societal Challenges through Analytics”
