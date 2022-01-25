@@ -4,6 +4,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. University of Southern California, Marshall School of Business, Fall 2022
+
 1. University of Georgia, Terry College of Business, 4/2022
 
 1. University of Rochester, Simon Business School, 4/2022
