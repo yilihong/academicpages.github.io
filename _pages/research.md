@@ -95,17 +95,19 @@ author_profile: true
 
 ## Selected Working Papers
 
-He Q, Hong Y, Raghu TS. 2021. [The Effects of Machine-powered Platform Governance: An Empirical Study of Content Moderation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680)
+He Q, Hong Y, Raghu TS. 2022. [The Effects of Machine-powered Platform Governance: An Empirical Study of Content Moderation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680)
 
-Huang N, Burtch G, Hong Y, He Y. 2021. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
+Huang N, Burtch G, Hong Y, He Y. 2022. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
 
-Liang C, Hong Y, Gu B. 2021. [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
+Liang C, Hong Y, Gu B. 2022. [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
 
-Liu Q, Du Q, Hong Y, Fan W. 2021. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
+Liu Q, Du Q, Hong Y, Fan W. 2022. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
 
-Liang C, Hong Y, Gu B. 2021. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
+Liang C, Hong Y, Gu B. 2022. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
 
-Hou J, Huang N, Burtch G, Hong Y, Chen P. 2021. [Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946059)
+Hou J, Huang N, Burtch G, Hong Y, Chen P. 2022. [Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946059)
+
+Zhao K, Hong Y, Ma T, Lu Y, Hu Y. 2022. [Group Size, Content Moderators, and User Engagement in Online Synchronous Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4030879)
 
 Wang X, Mousavi R, Hong Y, Ren Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
 
