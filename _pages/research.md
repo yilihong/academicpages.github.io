@@ -72,7 +72,7 @@ author_profile: true
 
 ### <ins>Papers on Societal Impact of Technology</ins>
 
-1. Li Z, Liang C, Hong Y, Zhang Z. 2021. [How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness](https://onlinelibrary.wiley.com/doi/10.1111/poms.13530), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Congestion_2021.pdf)
+1. Li Z, Liang C, Hong Y, Zhang Z. 2022. [How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness](https://onlinelibrary.wiley.com/doi/10.1111/poms.13530), *Production and Operations Management*, 31(1):239-258. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Congestion_2022.pdf)
 
 1. Li Z, Hong Y, Zhang Z. 2021. [The Empowering and Competition Effects of the Platform-Based Sharing Economy on the Supply and Demand Sides of the Labor Market](https://urldefense.com/v3/__https://www.tandfonline.com/eprint/NV4YPPYWBCBWWHQZYBDG/full?target=10.1080*07421222.2021.1870387__;Lw!!LkSTlj0I!UWhkN7ZeZgmRaMvNV4Khy7QK99k6BxaXLksNR-PFMTZ8IgF-yyG_xKutptHdfHI$), *Journal of Management Information Systems*, 38(1):140-165. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_SharingEconomy_2021.pdf)
 

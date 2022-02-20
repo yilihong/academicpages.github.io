@@ -18,6 +18,7 @@ author_profile: true
 - Co-Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
 - Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
 - Senior Editor, *Production and Operations Management*, Special Issue on "Role of National Culture in Operations Management"
+- Senior Editor, *Production and Operations Management*, Special Issue on "New Business Models and Operations Innovations"
 - Associate Editor, *Information Systems Research*, Special Issue on “Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations and Society”
 - Associate Editor, *Information Systems Research*, Special Issue on “Market Design and Analytics”
 - Editorial Board, *Journal of the Association for Information Systems*, Special Issue on “Addressing Societal Challenges through Analytics”
@@ -49,6 +50,7 @@ author_profile: true
 - Keran Zhao, Assistant Professor (2021), C. T. Bauer College of Business, University of Houston
 - Lingli Wang, Assistant Professor (2021), Beijing University of Posts and Telecommunications
 - Alvin Zheng, Assistant Professor (2022), Renmin University of China
+- Jingbo Hou, currently PhD student at ASU
 
 ## Visiting Faculty and Students Mentoring
 - Xingchen Xu (2019-2021), Tsinghua University (Undergraduate)
