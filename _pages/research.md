@@ -85,9 +85,9 @@ author_profile: true
 
 ### <ins>Papers on Business Analytics</ins>
 
-1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1041), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Measuring_ProductType_2021.pdf)
+1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1041), *Information Systems Research*, 32(4):1470–1489. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Measuring_ProductType_2021.pdf)
 
-1. Hu Y, Hong Y. 2021. [SHEDR: An End-to-End Neural Event Detection and Recommendation Framework for Hyperlocal News Using Social Media](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3677461), *INFORMS Journal on Computing*, Forthcoming.
+1. Hu Y, Hong Y. 2022. [SHEDR: An End-to-End Neural Event Detection and Recommendation Framework for Hyperlocal News Using Social Media](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1112), *INFORMS Journal on Computing*, 34(2):790–806. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JOC_SHEDR_2022.pdf)
 
 1. Hu Y, Xu A, Hong Y, Gal D, Sinha V, Akkiraju R. 2019. [Generating Business Intelligence Through Social Media Analytics: Measuring Brand Personality with Consumer-, Employee-, and Firm-Generated Content](https://www.tandfonline.com/doi/abs/10.1080/07421222.2019.1628908), *Journal of Management Information Systems.* 36(3):893-930. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JMIS_Brand_Personality_2019.pdf)
 
