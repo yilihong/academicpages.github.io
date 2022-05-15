@@ -26,13 +26,13 @@ author_profile: true
 
 1. Burtch G, He Q, Hong Y, Lee D. 2022. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4040), *Management Science*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2021.pdf)
 
-1. Hong Y, Peng J, Burtch G, Huang N. 2022. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://pubsonline.informs.org/doi/10.1287/isre.2021.1003), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
-
 1. Li Z, Liang C, Hong Y, Zhang Z. 2022. [How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness](https://onlinelibrary.wiley.com/doi/10.1111/poms.13530), *Production and Operations Management*, 31(1):239-258. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Congestion_2022.pdf)
+
+1. Hong Y, Peng J, Burtch G, Huang N. 2021. [Just DM Me (Politely): Direct Messaging, Politeness, and Hiring Outcomes in Online Labor Markets](https://pubsonline.informs.org/doi/10.1287/isre.2021.1003), *Information Systems Research*, 32(3):786-800. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DM_2021.pdf)
 
 1. Hu Y, Hong Y. 2022. [SHEDR: An End-to-End Neural Event Detection and Recommendation Framework for Hyperlocal News Using Social Media](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2021.1112), *INFORMS Journal on Computing*, 34(2):790–806. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/JOC_SHEDR_2022.pdf)
 
-1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://onlinelibrary.wiley.com/doi/10.1111/poms.13341), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
+1. Burtch G, Hong Y, Kumar S. 2021. [When Does Dispute Resolution Substitute for a Reputation System? Empirical Evidence from a Service Procurement Platform](https://onlinelibrary.wiley.com/doi/10.1111/poms.13341), *Production and Operations Management*, 30(6):1565-1582. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_DisputeResolution_2021.pdf)
 
 1. Chen PY, Hitt LM, Hong Y, Wu SY. 2021. [Measuring Product Type and Purchase Uncertainty with Online Product Ratings: A Theoretical Model and Empirical Application](https://pubsonline.informs.org/doi/abs/10.1287/isre.2021.1041), *Information Systems Research*, 32(4):1470–1489. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Measuring_ProductType_2021.pdf)
 
