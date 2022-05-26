@@ -24,7 +24,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Burtch G, He Q, Hong Y, Lee D. 2022. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4040), *Management Science*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2021.pdf)
+1. Burtch G, He Q, Hong Y, Lee D. 2022. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4040), *Management Science*, 68(5):3488-3506. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2022.pdf)
 
 1. Li Z, Liang C, Hong Y, Zhang Z. 2022. [How Do On-demand Ridesharing Services Affect Traffic Congestion? The Moderating Role of Urban Compactness](https://onlinelibrary.wiley.com/doi/10.1111/poms.13530), *Production and Operations Management*, 31(1):239-258. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_Congestion_2022.pdf)
 
