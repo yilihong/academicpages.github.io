@@ -83,14 +83,14 @@ analytics:
 author:
   name             : "Dr. Yili (Kevin) Hong"
   avatar           : "profile.jpeg"
-  bio              : "📕 C. T. Bauer Professor of AI & Digital Society<br />📘 Professor of MIS & Business Analytics<br />📗 Director, Bauer College PhD Programs"
+  bio              : "Professor of Business Technology"
   location         :
-  employer         : "C. T. Bauer College of Business, <br /> University of Houston"
+  employer         : "Herbert Business School, <br /> University of Miami"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=VwQmUFQAAAAJ&hl=en&oi=ao"
-  email            : "yilihong@uh.edu"
+  email            : "khong@miami.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://www.bauer.uh.edu/search/directory/profile.asp?firstname=Kevin&lastname=Hong"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :

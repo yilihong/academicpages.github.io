@@ -6,6 +6,10 @@ author_profile: true
 
 1. University of Southern California, Marshall School of Business, Fall 2022
 
+1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2022
+
+1. University of Science and Technology of China, School of Management, 7/2022
+
 1. University of Georgia, Terry College of Business, 4/2022
 
 1. University of Rochester, Simon Business School, 4/2022
