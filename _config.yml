@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yili (Kevin) Hong, Ph.D."
-logo                     : "/images/logo.JPG"
+logo                     : "logo.JPG"
 title_separator          : "-"
 name                     : &name "Dr. Kevin Hong"
 description              : &description "Yili (Kevin) Hong, Ph.D."
