@@ -4,6 +4,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. Florida State University, College of Business, Fall 2022
+
 1. University of Southern California, Marshall School of Business, Fall 2022
 
 1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2022
