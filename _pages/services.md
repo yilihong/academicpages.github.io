@@ -50,7 +50,8 @@ author_profile: true
 - Keran Zhao, Assistant Professor (2021), C. T. Bauer College of Business, University of Houston
 - Lingli Wang, Assistant Professor (2021), Beijing University of Posts and Telecommunications
 - Alvin Zheng, Assistant Professor (2022), Renmin University of China
-- Jingbo Hou, currently PhD student at ASU
+- Jingbo Hou, PhD candidate, ASU
+- Tengteng Ma, PhD candidate, UIC
 
 ## Visiting Faculty and Students Mentoring
 - Xingchen Xu (2019-2021), Tsinghua University (Undergraduate)
