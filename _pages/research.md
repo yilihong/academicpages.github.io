@@ -24,6 +24,8 @@ author_profile: true
 
 ## Selected Journal Publications
 
+1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming, *Information Systems Research*, Forthcoming.
+
 1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. The Screening Role of Auction Design Parameters in Online Service Outsourcing Platforms, *Information Systems Research*, Forthcoming.
 
 1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2022. Voice-Based AI in Call Center Customer Service: A Natural Field Experiment, *Production and Operations Management*, Forthcoming.
@@ -79,8 +81,6 @@ author_profile: true
 
 He Q, Hong Y, Raghu TS. 2022. [The Effects of Machine-powered Platform Governance: An Empirical Study of Content Moderation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680)
 
-Huang N, Burtch G, Hong Y, He Y. 2022. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3514033)
-
 Liang C, Hong Y, Gu B. 2022. [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
 
 Liu Q, Du Q, Hong Y, Fan W. 2022. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
@@ -96,9 +96,4 @@ Wang X, Mousavi R, Hong Y, Ren Y. 2020. [The Unintended Consequences of Stay-at-
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
 
 Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring On-the-hour Effects in Gamified Online Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
-
-Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2020. [Voice-Based AI in Call Center Customer Service: Evidence from a Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633100)
-
-Zhao K, Lu Y, Hu Y, Hong Y. 2020. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508)
-
 

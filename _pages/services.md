@@ -42,8 +42,9 @@ author_profile: true
 - Ying Liu, Assistant Professor (2018), Isenberg School of Management, University of Massachusetts Amherst
 - Yifan Ren, currently PhD student at UH
 
-### Postdoc Advisor
+### Postdoc Advisor / Co-Advisor
 - Yumei (Joy) He, Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
+- Jason Wu, currently postdoc at UH
 
 ### Dissertation Member
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
