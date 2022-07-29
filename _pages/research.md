@@ -24,13 +24,13 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming, *Information Systems Research*, Forthcoming.
+1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508), *Information Systems Research*, Forthcoming.
 
-1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. The Screening Role of Auction Design Parameters in Online Service Outsourcing Platforms, *Information Systems Research*, Forthcoming.
+1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2022. Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Niche vs. Mainstream Products, *MIS Quarterly*, Forthcoming.
 
 1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2022. Voice-Based AI in Call Center Customer Service: A Natural Field Experiment, *Production and Operations Management*, Forthcoming.
 
-1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2022. Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Niche vs. Mainstream Products, *MIS Quarterly*, Forthcoming.
+1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. The Screening Role of Auction Design Parameters in Online Service Outsourcing Platforms, *Information Systems Research*, Forthcoming.
 
 1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2022. Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending, *MIS Quarterly*, Forthcoming.
 
