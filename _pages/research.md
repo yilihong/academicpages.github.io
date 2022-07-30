@@ -26,13 +26,13 @@ author_profile: true
 
 1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3521508), *Information Systems Research*, Forthcoming.
 
-1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2022. Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Niche vs. Mainstream Products, *MIS Quarterly*, Forthcoming.
+1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2022. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Niche vs. Mainstream Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684996), *MIS Quarterly*, Forthcoming.
 
 1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2022. Voice-Based AI in Call Center Customer Service: A Natural Field Experiment, *Production and Operations Management*, Forthcoming.
 
 1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. The Screening Role of Auction Design Parameters in Online Service Outsourcing Platforms, *Information Systems Research*, Forthcoming.
 
-1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2022. Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending, *MIS Quarterly*, Forthcoming.
+1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2022. [Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending](https://misq.umn.edu/putting-religious-bias-in-context-how-offline-and-online-context-shape-religious-bias-in-online-pro-social-lending.html), *MIS Quarterly*, Forthcoming.
 
 1. Huang N, Burtch G, He Y, Hong Y. 2022. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1148), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DemandDisclosure_2022.pdf)
 
