@@ -55,5 +55,5 @@ author_profile: true
 - Tengteng Ma, PhD candidate, UIC
 
 ## Visiting Faculty and Students Mentoring
-- Xingchen Xu (2019-2021), Tsinghua University (Undergraduate)
+- Xingchen Xu (2019-2021), Tsinghua University (undergraduate, currently PhD student at UW)
 - Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)
