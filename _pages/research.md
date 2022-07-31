@@ -36,7 +36,7 @@ author_profile: true
 
 1. Huang N, Burtch G, He Y, Hong Y. 2022. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1148), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DemandDisclosure_2022.pdf)
 
-1. Liang C, Peng J, Hong Y, Gu B. 2022. [The Hidden Costs and Benefits of Monitoring in the Gig Economy](https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1130),*Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_MonitoringDesign_2022.pdf)
+1. Liang C, Peng J, Hong Y, Gu B. 2022. [The Hidden Costs and Benefits of Monitoring in the Gig Economy](https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1130), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_MonitoringDesign_2022.pdf)
 
 1. Burtch G, He Q, Hong Y, Lee D. 2022. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4040), *Management Science*, 68(5):3488-3506. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MS_Peer_Awards_2022.pdf)
 
