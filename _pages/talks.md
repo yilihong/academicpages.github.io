@@ -8,10 +8,6 @@ author_profile: true
 
 1. University of Southern California, Marshall School of Business, Fall 2022
 
-1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2022
-
-1. University of Science and Technology of China, School of Management, 7/2022
-
 1. University of Georgia, Terry College of Business, 4/2022
 
 1. University of Rochester, Simon Business School, 4/2022
@@ -27,10 +23,6 @@ author_profile: true
 1. National University of Singapore, NUS Business School, 10/2021
 
 1. University of Maryland, R. H. Smith School of Business, 9/2021
-
-1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2021
-
-1. Wuhan International Conference on E-Business, Keynote Speech, 5/2021
 
 1. Erasmus University, Rotterdam School of Management, 5/2021
 
@@ -53,8 +45,6 @@ author_profile: true
 1. University of North Carolina at Charlotte, Belk College of Business, 10/2019
 
 1. University of Utah, Eccles School of Business, 9/2019
-
-1. Harbin Institute of Technology, Big Data and Business Analytics Summer School, 7/2019
 
 1. The Hong Kong Polytechnic University, PolyU-AIS Research Workshop, 6/2019
 
