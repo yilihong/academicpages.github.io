@@ -49,7 +49,6 @@ author_profile: true
 ### Dissertation Member
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 - Keran Zhao, Assistant Professor (2021), C. T. Bauer College of Business, University of Houston
-- Lingli Wang, Assistant Professor (2021), Beijing University of Posts and Telecommunications
 - Alvin Zheng, Assistant Professor (2022), Renmin University of China
 - Jingbo Hou, PhD candidate, ASU
 - Tengteng Ma, PhD candidate, UIC
