@@ -32,7 +32,7 @@ author_profile: true
 
 1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2022. [Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending](https://misq.umn.edu/putting-religious-bias-in-context-how-offline-and-online-context-shape-religious-bias-in-online-pro-social-lending.html), *MIS Quarterly*, Forthcoming.
 
-1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Live Streaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/TwitchSpillover_2022.pdf)
+1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Livestreaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/TwitchSpillover_2022.pdf)
 
 
 1. Huang N, Burtch G, He Y, Hong Y. 2022. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1148), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DemandDisclosure_2022.pdf)
