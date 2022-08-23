@@ -4,9 +4,9 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. Florida State University, College of Business, Fall 2022
+1. University of Southern California, Marshall School of Business, 12/2022
 
-1. University of Southern California, Marshall School of Business, Fall 2022
+1. Florida State University, College of Business, 10/2022
 
 1. University of Georgia, Terry College of Business, 4/2022
 
