@@ -46,7 +46,7 @@ author_profile: true
 
 1. University of Utah, Eccles School of Business, 9/2019
 
-1. The Hong Kong Polytechnic University, PolyU-AIS Research Workshop, 6/2019
+1. Hong Kong Polytechnic University, Faculty of Business, 6/2019
 
 1. Boston College, Carroll School of Management, 5/2019
 
