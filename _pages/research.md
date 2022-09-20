@@ -35,7 +35,7 @@ author_profile: true
 1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Livestreaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_TwitchSpilover_2022.pdf)
 
 
-1. Huang N, Burtch G, He Y, Hong Y. 2022. [Examining the Effects of Demand Information Disclosure on Congestion and Matching Efficiency in Online Dating](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1148), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DemandDisclosure_2022.pdf)
+1. Huang N, Burtch G, He Y, Hong Y. 2022. [Managing Congestion in a Matching Market via Demand Information Disclosure](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1148), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DemandDisclosure_2022.pdf)
 
 1. Liang C, Peng J, Hong Y, Gu B. 2022. [The Hidden Costs and Benefits of Monitoring in the Gig Economy](https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1130), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_MonitoringDesign_2022.pdf)
 
