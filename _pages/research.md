@@ -92,8 +92,6 @@ Hou J, Huang N, Burtch G, Hong Y, Chen P. 2022. [Evaluating the Efficacy of Plat
 
 Zhao K, Hong Y, Ma T, Lu Y, Hu Y. 2022. [Group Size, Content Moderators, and User Engagement in Online Synchronous Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4030879)
 
-Wang X, Mousavi R, Hong Y, Ren Y. 2020. [The Unintended Consequences of Stay-at-Home Policies on Work Outcomes: The Impacts of Lockdown Orders on Content Creation](https://arxiv.org/abs/2011.15068)
-
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
 
 Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring On-the-hour Effects in Gamified Online Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
