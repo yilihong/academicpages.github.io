@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yili (Kevin) Hong, Ph.D."
+title                    : ""
 logo                     : "logo.JPG"
 title_separator          : "-"
 name                     : &name "Dr. Kevin Hong"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Dr. Yili (Kevin) Hong"
   avatar           : "profile.jpeg"
-  bio              : "Professor of Business Technology"
+  bio              : "Digital platforms and innovation researcher."
   location         :
   employer         : "Herbert Business School, <br /> University of Miami"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
