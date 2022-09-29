@@ -28,12 +28,11 @@ author_profile: true
 
 1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2022. [Voice-Based AI in Call Center Customer Service: A Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633100), *Production and Operations Management*, Forthcoming.
 
-1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. [The Screening Role of Auction Design Parameters in Online Service Outsourcing Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3161216), *Information Systems Research*, Forthcoming.
-
 1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2022. [Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending](https://misq.umn.edu/putting-religious-bias-in-context-how-offline-and-online-context-shape-religious-bias-in-online-pro-social-lending.html), *MIS Quarterly*, Forthcoming.
 
-1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Livestreaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_TwitchSpilover_2022.pdf)
+1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. [The Screening Role of Design Parameters for Service Procurement Auctions in Online Service Outsourcing Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3161216), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_AuctionDesign_2022.pdf)
 
+1. Zhao K, Lu Y, Hu Y, Hong Y. 2022. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Livestreaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_TwitchSpilover_2022.pdf)
 
 1. Huang N, Burtch G, He Y, Hong Y. 2022. [Managing Congestion in a Matching Market via Demand Information Disclosure](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1148), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_DemandDisclosure_2022.pdf)
 
