@@ -24,7 +24,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2022. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Niche vs. Mainstream Products](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3684996), *MIS Quarterly*, Forthcoming.
+1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2022. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Niche vs. Mainstream Products](https://misq.umn.edu/differential-effects-of-multi-dimensional-review-evaluations-on-product-sales-for-mainstream-vs-niche-products.html), *MIS Quarterly*, Forthcoming.
 
 1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2022. [Voice-Based AI in Call Center Customer Service: A Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633100), *Production and Operations Management*, Forthcoming.
 
