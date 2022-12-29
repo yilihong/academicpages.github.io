@@ -16,6 +16,7 @@ author_profile: true
 ### Special Issue Editors
 
 - Co-Editor, *Production and Operations Management*, Special Issue on "Social Technologies in Operations"
+- Senior Editor, *Production and Operations Management*, Special Issue on "Responsible Data Science"
 - Senior Editor, *Production and Operations Management*, Special Issue on "Disruptive Technologies and Operations Management"
 - Senior Editor, *Production and Operations Management*, Special Issue on "Role of National Culture in Operations Management"
 - Senior Editor, *Production and Operations Management*, Special Issue on "New Business Models and Operations Innovations"
@@ -44,7 +45,7 @@ author_profile: true
 
 ### Postdoc Advisor / Co-Advisor
 - Yumei (Joy) He, Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
-- Jason Wu, currently postdoc at UH
+- Jason Wu, Assistant Professor (2023), UNSW Business School, University of New South Wales
 
 ### Dissertation Member
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
