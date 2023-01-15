@@ -44,15 +44,15 @@ author_profile: true
 - Yifan Ren, currently PhD student at UH
 
 ### Postdoc Advisor / Co-Advisor
-- Yumei (Joy) He, Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
 - Jason Wu, Assistant Professor (2023), UNSW Business School, University of New South Wales
+- Yumei (Joy) He, Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
 
 ### Dissertation Member
-- Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
+- Jingbo Hou, Assistant Professor (2023), Leavey School of Business, Santa Clara University
+- Tengteng Ma, Assistant Professor (2023), Muma College of Business, University of South Florida
 - Keran Zhao, Assistant Professor (2021), C. T. Bauer College of Business, University of Houston
-- Alvin Zheng, Assistant Professor (2022), Renmin University of China
-- Jingbo Hou, PhD candidate, ASU
-- Tengteng Ma, PhD candidate, UIC
+- Alvin Zheng, Assistant Professor (2021), Renmin University of China
+- Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 
 ## Visiting Faculty and Students Mentoring
 - Xingchen Xu (2019-2021), Tsinghua University (undergraduate, currently PhD student at UW)
