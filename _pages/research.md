@@ -24,9 +24,11 @@ author_profile: true
 
 ## Selected Journal Publications
 
+1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2023 [When the Clock Strikes: Exploring On-the-hour Effects in Online Learning Systems](https://), *Information Systems Research*, Forthcoming.
+
 1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2023. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Mainstream vs. Niche Products](https://misq.umn.edu/differential-effects-of-multi-dimensional-review-evaluations-on-product-sales-for-mainstream-vs-niche-products.html), *MIS Quarterly*, Forthcoming.
 
-1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2023. [Voice-Based AI in Call Center Customer Service: A Natural Field Experiment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3633100), *Production and Operations Management*, Forthcoming.
+1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2023. [Voice-Based AI in Call Center Customer Service: A Natural Field Experiment](https://onlinelibrary.wiley.com/doi/10.1111/poms.13953), *Production and Operations Management*, Forthcoming.
 
 1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2023. [Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending](https://misq.umn.edu/putting-religious-bias-in-context-how-offline-and-online-context-shape-religious-bias-in-online-pro-social-lending.html), *MIS Quarterly*, Forthcoming.
 
