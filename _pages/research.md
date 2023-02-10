@@ -24,7 +24,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2023 [When the Clock Strikes: Exploring On-the-hour Effects in Online Learning Systems](https://), *Information Systems Research*, Forthcoming.
+1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2023. [When the Clock Strikes: Exploring On-the-hour Effects in Online Learning Systems](https://), *Information Systems Research*, Forthcoming.
 
 1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2023. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Mainstream vs. Niche Products](https://misq.umn.edu/differential-effects-of-multi-dimensional-review-evaluations-on-product-sales-for-mainstream-vs-niche-products.html), *MIS Quarterly*, Forthcoming.
 
