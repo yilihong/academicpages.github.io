@@ -28,9 +28,9 @@ author_profile: true
 
 1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2023. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Mainstream vs. Niche Products](https://misq.umn.edu/differential-effects-of-multi-dimensional-review-evaluations-on-product-sales-for-mainstream-vs-niche-products.html), *MIS Quarterly*, Forthcoming.
 
-1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2023. [Voice-Based AI in Call Center Customer Service: A Natural Field Experiment](https://onlinelibrary.wiley.com/doi/10.1111/poms.13953), *Production and Operations Management*, Forthcoming.
-
 1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2023. [Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending](https://misq.umn.edu/putting-religious-bias-in-context-how-offline-and-online-context-shape-religious-bias-in-online-pro-social-lending.html), *MIS Quarterly*, Forthcoming.
+
+1. Wang L, Huang N, Hong Y, Liu L, Guo X, Chen G. 2023. [Voice-Based AI in Call Center Customer Service: A Natural Field Experiment](https://onlinelibrary.wiley.com/doi/10.1111/poms.13953), *Production and Operations Management*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/POM_VoiceAI_2023.pdf)
 
 1. Zhao K, Lu Y, Hu Y, Hong Y. 2023. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Livestreaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_TwitchSpilover_2022.pdf)
 
