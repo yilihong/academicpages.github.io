@@ -91,8 +91,6 @@ Liu Q, Du Q, Hong Y, Fan W. 2023. [Idea Recommendation in Open Innovation Platfo
 
 Liang C, Hong Y, Gu B. 2023. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
 
-Hou J, Huang N, Burtch G, Hong Y, Chen P. 2022. [Evaluating the Efficacy of Platform-Imposed Application Costs for Managing Congestion in Online Matching Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3946059)
-
 Zhao K, Hong Y, Ma T, Lu Y, Hu Y. 2022. [Group Size, Content Moderators, and User Engagement in Online Synchronous Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4030879)
 
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
