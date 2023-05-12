@@ -87,6 +87,8 @@ He Q, Hong Y, Raghu TS. 2023. [The Effects of Machine-powered Platform Governanc
 
 Liang C, Hong Y, Gu B. 2023. [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
 
+Mousavi R, Wang X, Hong Y, Ren Y. 2023. [The Impacts of the Physical Environment on Online Content Creation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443675)
+
 Liu Q, Du Q, Hong Y, Fan W. 2023. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
 
 Liang C, Hong Y, Gu B. 2023. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
