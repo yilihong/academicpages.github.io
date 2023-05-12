@@ -96,6 +96,3 @@ Liang C, Hong Y, Gu B. 2023. [Does Monitoring Lead to a ‘Warm’ Start in Onli
 Zhao K, Hong Y, Ma T, Lu Y, Hu Y. 2022. [Group Size, Content Moderators, and User Engagement in Online Synchronous Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4030879)
 
 He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
-
-Wang L, Huang N, Hong Y, Lin L, Guo X, Chen G. 2020. [When the Clock Strikes: Exploring On-the-hour Effects in Gamified Online Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3693481)
-
