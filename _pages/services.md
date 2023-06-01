@@ -50,7 +50,7 @@ author_profile: true
 ### Dissertation Member
 - Jingbo Hou, Assistant Professor (2023), Leavey School of Business, Santa Clara University
 - Tengteng Ma, Assistant Professor (2023), Muma College of Business, University of South Florida
-- Keran Zhao, Assistant Professor (2021), C. T. Bauer College of Business, University of Houston
+- Keran Zhao, Assistant Professor (2021), Smeal College of Business, Penn State University
 - Alvin Zheng, Assistant Professor (2021), Renmin University of China
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 
