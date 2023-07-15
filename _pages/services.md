@@ -41,7 +41,6 @@ author_profile: true
 - Qinglai He, Assistant Professor (2021), Wisconsin School of Business, University of Wisconsin-Madison (ICIS SIGMIS Doctoral Dissertation Award Runnerup)
 - Chen Liang, Assistant Professor (2019), School of Business, University of Connecticut
 - Ying Liu, Assistant Professor (2018), Isenberg School of Management, University of Massachusetts Amherst
-- Yifan Ren, currently PhD student at UH
 
 ### Postdoc Advisor / Co-Advisor
 - Jason Wu, Assistant Professor (2023), UNSW Business School, University of New South Wales
@@ -54,6 +53,7 @@ author_profile: true
 - Alvin Zheng, Assistant Professor (2021), Renmin University of China
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 
-## Visiting Faculty and Students Mentoring
-- Xingchen Xu (2019-2021), Tsinghua University (undergraduate, currently PhD student at UW)
-- Rui Gu (2018-2019), University of International Business and Economics (Visiting Faculty)
+## Other Students Mentoring
+- Freya Liu (2022-), currently PhD student at HK PolyU
+- Yifan Ren (2020-), currently PhD student at CUHK
+- Xingchen Xu (2019-), Tsinghua University (undergraduate, currently PhD student at UW)
