@@ -4,6 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. Boston University, Questrom School of Business, 11/2023
+
+1. University of Delaware, Lerner College of Business and Economics, 10/2023
+
 1. University of Southern California, Marshall School of Business, 12/2022
 
 1. Florida State University, College of Business, 10/2022
