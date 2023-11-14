@@ -24,7 +24,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Sarkar S, Whitley EA, Goh KY, \Hong, Mähring M, Sanyal P, Su N, Xu H, Xu DJ, Zhang J, Zhao H. 2023. [Some Thoughts on Reviewing for Information Systems Research and Other Leading Information Systems Journals](https://pubsonline.informs.org/doi/10.1287/isre.2023.editorial.v34.n4), *Information Systems Research*, Forthcoming.
+1. Sarkar S, Whitley EA, Goh KY, Hong Y, Mähring M, Sanyal P, Su N, Xu H, Xu DJ, Zhang J, Zhao H. 2023. [Some Thoughts on Reviewing for Information Systems Research and Other Leading Information Systems Journals](https://pubsonline.informs.org/doi/10.1287/isre.2023.editorial.v34.n4), *Information Systems Research*, Forthcoming.
 
 1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2023. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Mainstream vs. Niche Products](https://misq.umn.edu/differential-effects-of-multi-dimensional-review-evaluations-on-product-sales-for-mainstream-vs-niche-products.html), *MIS Quarterly*, Forthcoming.
 
