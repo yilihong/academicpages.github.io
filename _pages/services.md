@@ -47,13 +47,15 @@ author_profile: true
 - Yumei (Joy) He, Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
 
 ### Dissertation Member
+- Aida Sanatizadeh (2024), PhD student at UIC
 - Jingbo Hou, Assistant Professor (2023), Leavey School of Business, Santa Clara University
 - Tengteng Ma, Assistant Professor (2023), Muma College of Business, University of South Florida
 - Keran Zhao, Assistant Professor (2021), Smeal College of Business, Penn State University
 - Alvin Zheng, Assistant Professor (2021), Renmin University of China
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 
-## Other Students Mentoring
-- Freya Liu (2022-), currently PhD student at HK PolyU
-- Yifan Ren (2020-), currently PhD student at CUHK
-- Xingchen Xu (2019-), Tsinghua University (undergraduate, currently PhD student at UW)
+## PhD Students Mentoring
+- Alan Huang (2023-), PhD student at University of Miami
+- Freya Liu (2022-), PhD student at HK PolyU
+- Yifan Ren (2020-), PhD student at CUHK
+- Xingchen Xu (2019-), PhD student at University of Washington
