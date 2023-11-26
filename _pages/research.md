@@ -87,8 +87,6 @@ author_profile: true
 
 Li B, Xie Y, Hong Y, Shi W. 2023. [Unpacking Firms’ Non-Market Responses to Data Breaches: Evidence from Cybersecurity Lobbying Activities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4263031)
 
-He Q, Hong Y, Raghu TS. 2023. [The Effects of Machine-powered Platform Governance: An Empirical Study of Content Moderation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680)
-
 Liang C, Hong Y, Gu B. 2023. [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
 
 Mousavi R, Wang X, Hong Y, Ren Y. 2023. [The Impacts of the Physical Environment on Online Content Creation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443675)
