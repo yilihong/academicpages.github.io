@@ -24,6 +24,8 @@ author_profile: true
 
 ## Selected Journal Publications
 
+1. He Q, Hong Y, Raghu TS. 2023. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://), *Information Systems Research*, Forthcoming.
+
 1. Sarkar S, Whitley EA, Goh KY, Hong Y, Mähring M, Sanyal P, Su N, Xu H, Xu DJ, Zhang J, Zhao H. 2023. [Some Thoughts on Reviewing for Information Systems Research and Other Leading Information Systems Journals](https://pubsonline.informs.org/doi/10.1287/isre.2023.editorial.v34.n4), *Information Systems Research*, Forthcoming.
 
 1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2023. [When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1234), *Information Systems Research*, Forthcoming.
