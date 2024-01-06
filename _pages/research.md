@@ -24,7 +24,9 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. He Q, Hong Y, Raghu TS. 2023. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://), *Information Systems Research*, Forthcoming.
+1. Liang C, Hong Y, Gu B. 2024. [Monitoring and the Cold Start Problem in Digital Platforms: Theory and Evidence from Online Labor Markets](https://), *Information Systems Research*, Forthcoming.
+
+1. He Q, Hong Y, Raghu TS. 2024. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://), *Information Systems Research*, Forthcoming.
 
 1. Sarkar S, Whitley EA, Goh KY, Hong Y, Mähring M, Sanyal P, Su N, Xu H, Xu DJ, Zhang J, Zhao H. 2023. [Some Thoughts on Reviewing for Information Systems Research and Other Leading Information Systems Journals](https://pubsonline.informs.org/doi/10.1287/isre.2023.editorial.v34.n4), *Information Systems Research*, Forthcoming.
 
