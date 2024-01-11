@@ -24,6 +24,8 @@ author_profile: true
 
 ## Selected Journal Publications
 
+1. He Y, Xu X, Huang N, Hong Y, Liu D. 2024. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from the Online Dating Context](https://), *Information Systems Research*, Forthcoming.
+
 1. Liang C, Hong Y, Gu B. 2024. [Monitoring and the Cold Start Problem in Digital Platforms: Theory and Evidence from Online Labor Markets](https://), *Information Systems Research*, Forthcoming.
 
 1. He Q, Hong Y, Raghu TS. 2024. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://), *Information Systems Research*, Forthcoming.
@@ -95,8 +97,4 @@ Mousavi R, Wang X, Hong Y, Ren Y. 2023. [The Impacts of the Physical Environment
 
 Liu Q, Du Q, Hong Y, Fan W. 2023. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
 
-Liang C, Hong Y, Gu B. 2023. [Does Monitoring Lead to a ‘Warm’ Start in Online Platforms?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920)
-
 Zhao K, Hong Y, Ma T, Lu Y, Hu Y. 2022. [Group Size, Content Moderators, and User Engagement in Online Synchronous Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4030879)
-
-He Y, Xu X, Huang N, Hong Y, Liu D. 2020. [Preserving User Privacy Through Ephemeral Sharing Design: A Large-Scale Randomized Field Experiment in the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782)
