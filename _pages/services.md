@@ -58,4 +58,5 @@ author_profile: true
 ## PhD Students Mentoring
 - Alan Huang (2023-), PhD student at University of Miami
 - Freya Liu (2022-), PhD student at HK PolyU
+- Yifan Ren (2020-), PhD student at CUHK
 - Xingchen Xu (2019-), PhD student at University of Washington
