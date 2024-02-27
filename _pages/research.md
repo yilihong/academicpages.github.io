@@ -30,11 +30,11 @@ author_profile: true
 
 1. He Q, Hong Y, Raghu TS. 2024. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680), *Information Systems Research*, Forthcoming.
 
-1. Sarkar S, Whitley EA, Goh KY, Hong Y, Mähring M, Sanyal P, Su N, Xu H, Xu DJ, Zhang J, Zhao H. 2023. [Some Thoughts on Reviewing for Information Systems Research and Other Leading Information Systems Journals](https://pubsonline.informs.org/doi/10.1287/isre.2023.editorial.v34.n4), *Information Systems Research*, Forthcoming.
+1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2024. [When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1234), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_ClockStricks_2023.pdf)
 
-1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2023. [When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1234), *Information Systems Research*, Forthcoming.
+1. Sarkar S, Whitley EA, Goh KY, Hong Y, Mähring M, Sanyal P, Su N, Xu H, Xu DJ, Zhang J, Zhao H. 2023. [Some Thoughts on Reviewing for Information Systems Research and Other Leading Information Systems Journals](https://pubsonline.informs.org/doi/10.1287/isre.2023.editorial.v34.n4), *Information Systems Research*, 34(4):1321-1338. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_Editorial_Reviewing_2023.pdf)
 
-1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2023. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Mainstream vs. Niche Products](https://misq.umn.edu/differential-effects-of-multi-dimensional-review-evaluations-on-product-sales-for-mainstream-vs-niche-products.html), *MIS Quarterly*, 47(2):833-856.
+1. Zheng X, Cao J, Hong Y, Yang S, Ren X. 2023. [Differential Effects of Multi-dimensional Review Evaluations on Product Sales for Mainstream vs. Niche Products](https://misq.umn.edu/differential-effects-of-multi-dimensional-review-evaluations-on-product-sales-for-mainstream-vs-niche-products.html), *MIS Quarterly*, 47(2):833-856. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MISQ_MultidimensionalSales_2023.pdf)
 
 1. Zhao K, Lu Y, Hu Y, Hong Y. 2023. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Livestreaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, 34(3):847-866. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_TwitchSpilover_2023.pdf)
 
