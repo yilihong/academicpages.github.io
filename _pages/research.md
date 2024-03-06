@@ -89,7 +89,9 @@ author_profile: true
 
 ## Selected Working Papers
 
-Li B, Xie Y, Hong Y, Shi W. 2023. [Unpacking Firms’ Non-Market Responses to Data Breaches: Evidence from Cybersecurity Lobbying Activities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4263031)
+Short, J, D'Arcy J, Hong Y. 2024. [Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms’ Cybersecurity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750083)
+
+Li B, Hong Y, Shi W, Xie Y. 2023. [Unpacking Firms’ Non-Market Responses to Data Breaches: Evidence from Cybersecurity Lobbying Activities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4263031)
 
 Liang C, Hong Y, Gu B. 2023. [Can Monitoring Help Flatten the World? An Empirical Examination of Online Hiring](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309)
 
