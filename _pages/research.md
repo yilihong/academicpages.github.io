@@ -26,9 +26,9 @@ author_profile: true
 
 1. He Y, Xu X, Huang N, Hong Y, Liu D. 2024. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from the Online Dating Context](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3740782), *Information Systems Research*, Forthcoming.
 
-1. Liang C, Hong Y, Gu B. 2024. [Monitoring and the Cold Start Problem in Digital Platforms: Theory and Evidence from Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920), *Information Systems Research*, Forthcoming.
-
 1. He Q, Hong Y, Raghu TS. 2024. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680), *Information Systems Research*, Forthcoming.
+
+1. Liang C, Hong Y, Gu B. 2024. [Monitoring and the Cold Start Problem in Digital Platforms: Theory and Evidence from Online Labor Markets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2844920), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_ColdStartMonitoring_2024.pdf)
 
 1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2024. [When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1234), *Information Systems Research*, Forthcoming. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_ClockStricks_2023.pdf)
 
