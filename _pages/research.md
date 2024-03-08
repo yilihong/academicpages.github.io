@@ -38,7 +38,7 @@ author_profile: true
 
 1. Zhao K, Lu Y, Hu Y, Hong Y. 2023. [Direct and Indirect Spillovers from Content Providers’ Switching: Evidence from Online Livestreaming](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1160), *Information Systems Research*, 34(3):847-866. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_TwitchSpilover_2023.pdf)
 
-1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2023. [Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending](https://misq.umn.edu/putting-religious-bias-in-context-how-offline-and-online-context-shape-religious-bias-in-online-pro-social-lending.html), *MIS Quarterly*, 47(1):33-62.
+1. Sabzehzar A, Burtch G, Hong Y, Raghu TS. 2023. [Putting Religious Bias in Context: How Offline and Online Contexts Shape Religious Bias in Online Pro-social Lending](https://misq.umn.edu/putting-religious-bias-in-context-how-offline-and-online-context-shape-religious-bias-in-online-pro-social-lending.html), *MIS Quarterly*, 47(1):33-62. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/MISQ_ReligionBias_2023.pdf)
 
 1. Liang C, Peng J, Hong Y, Gu B. 2023. [The Hidden Costs and Benefits of Monitoring in the Gig Economy](https://pubsonline.informs.org/doi/abs/10.1287/isre.2022.1130), *Information Systems Research*, 34(1):297-318. [![Download](https://img.shields.io/badge/Download-blue.svg)](/paper-pdf/ISR_MonitoringDesign_2022.pdf)
 
