@@ -4,6 +4,10 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. New York University, Stern School of Business, ISPOC, 5/2024
+
+1. ZEVEDI-Lecture Series: Responsible Algorithmic Decision-Making in the Workplace, 4/2024
+
 1. Boston University, Questrom School of Business, 11/2023
 
 1. University of Delaware, Lerner College of Business and Economics, 10/2023
