@@ -48,7 +48,7 @@ author_profile: true
 - Yumei (Joy) He, Assistant Professor (2022), A. B. Freeman School of Business, Tulane University
 
 ### Dissertation Member
-- Aida Sanatizadeh (2024), PhD student at UIC
+- Aida Sanatizadeh, Assistant Professor (2024), College of Business, Northern Illinois University
 - Jingbo Hou, Assistant Professor (2023), Leavey School of Business, Santa Clara University
 - Tengteng Ma, Assistant Professor (2023), Muma College of Business, University of South Florida
 - Keran Zhao, Assistant Professor (2021), Smeal College of Business, Penn State University
