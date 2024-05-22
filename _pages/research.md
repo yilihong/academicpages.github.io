@@ -101,6 +101,7 @@ Li B, Hong Y, Shi W, Xie Y. 2024. [Unpacking Firms’ Non-Market Responses to Da
 
 Hou J, Sabzehzar A, Hong Y, Chen PY. 2024. [Jumpstarting Online Presence: How Algorithmic Content Mitigates Cold Start Woes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296173)
 
+Sabzehzar A, Burtch G, Hong Y, TS Raghu. 2024. [The Efficacy of Need-Based Attentional Interventions in Educational Crowdfunding](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4838321)
 
 Mousavi R, Wang X, Hong Y, Ren Y. 2023. [The Impacts of the Physical Environment on Online Content Creation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4443675)
 
