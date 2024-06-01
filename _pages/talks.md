@@ -4,6 +4,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+1. University of Illinois Urbana-Champaign, Gies College of Business, 9/2024
+
 1. New York University, Stern School of Business, ISPOC, 5/2024
 
 1. ZEVEDI-Lecture Series: Responsible Algorithmic Decision-Making in the Workplace, 4/2024
