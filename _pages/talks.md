@@ -4,7 +4,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-1. University of Illinois Urbana-Champaign, Gies College of Business, 9/2024
+1. University of Illinois Urbana-Champaign, Gies College of Business, 11/2024
 
 1. New York University, Stern School of Business, ISPOC, 5/2024
 
