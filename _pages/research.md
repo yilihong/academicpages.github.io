@@ -24,10 +24,9 @@ author_profile: true
 
 ## Selected Journal Publications
 
-1. Liang C, Hong Y, Gu B. 2024. [Monitoring and Home Bias in Gobal Hiring: Evidence from an Online Labor Platform](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3941309), *Information Systems Research*, Forthcoming.
-
-
 1. He Q, Hong Y, Raghu TS. 2024. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680), *Information Systems Research*, Forthcoming.
+
+1. Liang C, Hong Y, Gu B. 2024. [Monitoring and Home Bias in Gobal Hiring: Evidence from an Online Labor Platform](https://pubsonline.informs.org/doi/full/10.1287/isre.2021.0526), *Information Systems Research*, Forthcoming.
 
 1. He Y, Xu X, Huang N, Hong Y, Liu D. 2024. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from the Online Dating Context](https://pubsonline.informs.org/doi/full/10.1287/isre.2021.0379), *Information Systems Research*, Forthcoming.
 
