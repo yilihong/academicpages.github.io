@@ -56,6 +56,7 @@ author_profile: true
 - Cheng Chen, Assistant Professor (2020), Lubar School of Business, University of Wisconsin-Milwaukee
 
 ## PhD Students Mentoring
+- Dezhen Guo (2024-), PhD student at University of Miami
 - Alan Huang (2023-), PhD student at University of Miami
 - Freya Liu (2022-), PhD student at HK PolyU
 - Xingchen Xu (2019-), PhD student at University of Washington
