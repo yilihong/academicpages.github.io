@@ -32,7 +32,7 @@ author_profile: true
 
 1. Liang C, Hong Y, Gu B. 2024. [Monitoring and the Cold Start Problem in Digital Platforms: Theory and Evidence from Online Labor Markets](https://pubsonline.informs.org/doi/10.1287/isre.2021.0146), *Information Systems Research*, Forthcoming.
 
-1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2024. [When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1234), *Information Systems Research*, Forthcoming.
+1. Huang N, Wang L, Hong Y, Lin L, Guo X, Chen G. 2024. [When the Clock Strikes: A Multimethod Investigation of On-the-Hour Effects in Online Learning](https://pubsonline.informs.org/doi/abs/10.1287/isre.2023.1234), *Information Systems Research*, 35(2):766-782.
 
 1. Sarkar S, Whitley EA, Goh KY, Hong Y, Mähring M, Sanyal P, Su N, Xu H, Xu DJ, Zhang J, Zhao H. 2023. [Some Thoughts on Reviewing for Information Systems Research and Other Leading Information Systems Journals](https://pubsonline.informs.org/doi/10.1287/isre.2023.editorial.v34.n4), *Information Systems Research*, 34(4):1321-1338.
 
