@@ -94,6 +94,9 @@ author_profile: true
 
 ## Selected Working Papers
 
+Huang A, Huang N, Hong Y. 2024. [On the Double-Edged Effects of Peer-to-Peer Payment Systems: Evidence from Zelle Partnerships
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883176)
+
 Short J, D'Arcy J, Hong Y. 2024. [Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms’ Cybersecurity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750083)
 
 Li B, Hong Y, Shi W, Xie Y. 2024. [Unpacking Firms’ Non-Market Responses to Data Breaches: Evidence from Cybersecurity Lobbying Activities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4263031)
