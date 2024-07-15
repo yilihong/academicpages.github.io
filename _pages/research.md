@@ -94,6 +94,8 @@ author_profile: true
 
 ## Selected Working Papers
 
+Zhao K, Hong Y, Ma T, Lu Y, Hu Y. 2024. [Group Size, Content Moderators, and User Engagement in Online Synchronous Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4030879)
+
 Huang A, Huang N, Hong Y. 2024. [On the Double-Edged Effects of Peer-to-Peer Payment Systems: Evidence from Zelle Partnerships
 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4883176)
 
@@ -112,4 +114,3 @@ Mousavi R, Wang X, Hong Y, Ren Y. 2023. [The Impacts of the Physical Environment
 
 Liu Q, Du Q, Hong Y, Fan W. 2023. [Idea Recommendation in Open Innovation Platforms: A Design Science Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3898894)
 
-Zhao K, Hong Y, Ma T, Lu Y, Hu Y. 2022. [Group Size, Content Moderators, and User Engagement in Online Synchronous Content Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4030879)
