@@ -26,7 +26,7 @@ author_profile: true
 
 1. He Q, Hong Y, Raghu TS. 2024. [Platform Governance with Algorithm-based Content Moderation: An Empirical Study on Reddit](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767680), *Information Systems Research*, Forthcoming.
 
-1. Liang C, Hong Y, Gu B. 2024. [Monitoring and Home Bias in Gobal Hiring: Evidence from an Online Labor Platform](https://pubsonline.informs.org/doi/full/10.1287/isre.2021.0526), *Information Systems Research*, Forthcoming.
+1. Liang C, Hong Y, Gu B. 2024. [Monitoring and Home Bias in Global Hiring: Evidence from an Online Labor Platform](https://pubsonline.informs.org/doi/full/10.1287/isre.2021.0526), *Information Systems Research*, Forthcoming.
 
 1. He Y, Xu X, Huang N, Hong Y, Liu D. 2024. [Enhancing User Privacy Through Ephemeral Sharing Design: Experimental Evidence from the Online Dating Context](https://pubsonline.informs.org/doi/full/10.1287/isre.2021.0379), *Information Systems Research*, Forthcoming.
 
@@ -102,7 +102,6 @@ Huang A, Huang N, Hong Y. 2024. [On the Double-Edged Effects of Peer-to-Peer Pay
 Short J, D'Arcy J, Hong Y. 2024. [Chief Information Officers (CIOs) Joining Outside Boards of Directors: Impact on Their Home Firms’ Cybersecurity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4750083)
 
 Wang W, Liu X, Zhang X, Hong Y. 2024. [Knowledge Trap in Augmented Intelligence: Human Experts’ Overfocus on Details Hurts Task Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4395858)
-
 
 Li B, Hong Y, Shi W, Xie Y. 2024. [Unpacking Firms’ Non-Market Responses to Data Breaches: Evidence from Cybersecurity Lobbying Activities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4263031)
 
