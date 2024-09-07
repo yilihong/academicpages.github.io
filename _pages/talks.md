@@ -3,6 +3,9 @@ title: ""
 permalink: /talks/
 author_profile: true
 ---
+1. Texas Tech University, Rawls College of Business, 4/2025
+
+1. Virginia Tech, Pamplin College of Business, 2/2025
 
 1. University of Illinois Urbana-Champaign, Gies College of Business, 11/2024
 

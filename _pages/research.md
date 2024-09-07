@@ -48,7 +48,7 @@ author_profile: true
 
 1. Huang N, Burtch G, He Y, Hong Y. 2022. [Managing Congestion in a Matching Market via Demand Information Disclosure](https://pubsonline.informs.org/doi/epdf/10.1287/isre.2022.1148), *Information Systems Research*, 33(4):1196-1220.
 
-1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. [The Screening Role of Design Parameters for Service Procurement Auctions in Online Service Outsourcing Platforms](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3161216), *Information Systems Research*, 33(4):1324-1343.
+1. Liang C, Hong Y, Chen PY, Shao BBM. 2022. [The Screening Role of Design Parameters for Service Procurement Auctions in Online Service Outsourcing Platforms](https://pubsonline.informs.org/doi/10.1287/isre.2022.1168), *Information Systems Research*, 33(4):1324-1343.
 
 1. Burtch G, He Q, Hong Y, Lee D. 2022. [How Do Peer Awards Motivate Creative Content? Experimental Evidence from Reddit](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2021.4040), *Management Science*, 68(5):3488-3506.
 
