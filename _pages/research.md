@@ -103,6 +103,9 @@ Short J, D'Arcy J, Hong Y. 2024. [Chief Information Officers (CIOs) Joining Outs
 
 Wang W, Liu X, Zhang X, Hong Y. 2024. [Knowledge Trap in Augmented Intelligence: Human Experts’ Overfocus on Details Hurts Task Performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4395858)
 
+Huang A, Huang N, Hong Y. 2024. [Algorithm-enabled Workflow Automation in Open-source Development: Evidence from GitHub Actions
+](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4969718)
+
 Li B, Hong Y, Shi W, Xie Y. 2024. [Unpacking Firms’ Non-Market Responses to Data Breaches: Evidence from Cybersecurity Lobbying Activities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4263031)
 
 Hou J, Sabzehzar A, Hong Y, Chen PY. 2024. [Jumpstarting Online Presence: How Algorithmic Content Mitigates Cold Start Woes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296173)
