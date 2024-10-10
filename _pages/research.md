@@ -106,6 +106,8 @@ Wang W, Liu X, Zhang X, Hong Y. 2024. [Knowledge Trap in Augmented Intelligence:
 Huang A, Huang N, Hong Y. 2024. [Algorithm-enabled Workflow Automation in Open-source Development: Evidence from GitHub Actions
 ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4969718)
 
+Guo D, Kwon E, Huang N, Hong Y. 2024. [How does Shielded (vs. Open) Voting Shape Collective Actions? Evidence from Decentralized Autonomous Organizations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4982940)
+
 Li B, Hong Y, Shi W, Xie Y. 2024. [Unpacking Firms’ Non-Market Responses to Data Breaches: Evidence from Cybersecurity Lobbying Activities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4263031)
 
 Hou J, Sabzehzar A, Hong Y, Chen PY. 2024. [Jumpstarting Online Presence: How Algorithmic Content Mitigates Cold Start Woes](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4296173)
