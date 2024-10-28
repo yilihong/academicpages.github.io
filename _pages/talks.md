@@ -7,6 +7,8 @@ author_profile: true
 
 1. Virginia Tech, Pamplin College of Business, 2/2025
 
+1. Indian School of Business, 11/2024
+
 1. University of Illinois Urbana-Champaign, Gies College of Business, 11/2024
 
 1. New York University, Stern School of Business, ISPOC, 5/2024
